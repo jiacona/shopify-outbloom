@@ -35,6 +35,25 @@
       assign ratio = 1
     endif
   -%}
+  {%- liquid
+    if customer.tags contains 'Wholesale customer'
+      assign not_wholesale_customer = false
+      assign wholesale_customer = true
+    else
+      assign not_wholesale_customer = true
+      assign wholesale_customer = false
+    endif
+  -%}
+
+  {%- liquid
+    if card_product.tags contains 'wholesale'
+      assign wholesale_product = true
+      assign not_wholesale_product = false
+    else
+      assign wholesale_product = false
+      assign not_wholesale_product = true
+    endif
+  -%}
   <div class="card-wrapper product-card-wrapper underline-links-hover">
     <div
       class="
@@ -199,7 +218,9 @@
               </p>
             {%- endif -%}
 
-            {% render 'price', product: card_product, price_class: '', show_compare_at_price: true %}
+            {%- if not_wholesale_product or wholesale_product and wholesale_customer %}
+              {% render 'price', product: card_product, price_class: '', show_compare_at_price: true %}
+            {%- endif %}
             {%- if card_product.quantity_price_breaks_configured? -%}
               <div class="card__information-volume-pricing-note">
                 <span class="caption">{{ 'products.product.volume_pricing.note' | t }}</span>
@@ -370,7 +391,9 @@
               <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
               <div class="caption-with-letter-spacing light">{{ 'products.product.vendor' | t }}</div>
             {%- endif -%}
-            {% render 'price', show_compare_at_price: true %}
+            {%- if not_wholesale_product or wholesale_product and wholesale_customer %}
+              {% render 'price', show_compare_at_price: true %}
+            {%- endif %}
           </div>
         </div>
       </div>
