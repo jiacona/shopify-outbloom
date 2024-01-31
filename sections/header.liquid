@@ -88,6 +88,11 @@
 {%- style -%}
   .header {
     padding: {{ section.settings.padding_top | times: 0.5 | round: 0 }}px 3rem {{ section.settings.padding_bottom | times: 0.5 | round: 0 }}px 3rem;
+    align-items: start;
+  }
+
+  .header-wrapper {
+    background-attachment: inherit;
   }
 
   .section-header {
@@ -158,10 +163,6 @@
     {%- liquid
       if section.settings.menu != blank
         render 'header-drawer'
-      endif
-
-      if section.settings.logo_position == 'top-center' or section.settings.menu == blank
-        render 'header-search', input_id: 'Search-In-Modal-1'
       endif
     -%}
 
@@ -293,7 +294,6 @@
           </localization-form>
         {%- endif -%}
       </div>
-      {% render 'header-search', input_id: 'Search-In-Modal' %}
 
       {%- if shop.customer_accounts_enabled -%}
         <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__icon header__icon--account link focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}">
@@ -377,6 +377,7 @@
 
     setHeaderHeight() {
       document.documentElement.style.setProperty('--header-height', `${this.header.offsetHeight}px`);
+      document.documentElement.style.setProperty('--header-offset', `-${this.header.offsetHeight}px`);
     }
 
     disconnectedCallback() {
@@ -522,7 +523,7 @@
           "label": "t:sections.header.settings.logo_position.options__4.label"
         }
       ],
-      "default": "middle-left",
+      "default": "top-center",
       "label": "t:sections.header.settings.logo_position.label",
       "info": "t:sections.header.settings.logo_help.content"
     },
@@ -580,7 +581,7 @@
     {
       "type": "checkbox",
       "id": "show_line_separator",
-      "default": true,
+      "default": false,
       "label": "t:sections.header.settings.show_line_separator.label"
     },
     {
@@ -593,7 +594,7 @@
       "label": "t:sections.all.colors.label",
       "default": "scheme-1"
     },
-      {
+    {
       "type": "color_scheme",
       "id": "menu_color_scheme",
       "label": "t:sections.header.settings.menu_color_scheme.label",
@@ -667,17 +668,17 @@
       "step": 4,
       "unit": "px",
       "label": "t:sections.all.padding.padding_top",
-      "default": 20
+      "default": 36
     },
     {
       "type": "range",
       "id": "padding_bottom",
       "min": 0,
-      "max": 36,
+      "max": 100,
       "step": 4,
       "unit": "px",
       "label": "t:sections.all.padding.padding_bottom",
-      "default": 20
+      "default": 100
     }
   ],
   "blocks": [
