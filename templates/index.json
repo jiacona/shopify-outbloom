@@ -3,14 +3,13 @@
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image": "shopify:\/\/shop_images\/DSC03648.jpg",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-3",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
         "show_text_below": false
       }
     },
@@ -36,6 +35,8 @@
         "text"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "scheme-1",
         "full_width": true,
         "padding_top": 40,
@@ -88,9 +89,9 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false,
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
