@@ -355,6 +355,53 @@
         "show_text_below": true,
         "accessibility_info": "Fall flowers"
       }
+    },
+    "image_with_text_etzmef": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ghAEY6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Flowers for business",
+            "heading_size": "h1"
+          }
+        },
+        "text_FbYneA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We supply flowers to a range of businesses in the West Wales area. If you are a florists who would like access to our range of high quality flowers, or a holiday home who would like to give your guests the most delightful welcome of fresh local flowers, please get in touch.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_3GAg76": {
+          "type": "button",
+          "settings": {
+            "button_label": "Wholesale flowers",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ghAEY6",
+        "text_FbYneA",
+        "button_3GAg76"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/66C59193-4333-4485-99FB-7CD71CF75F75_1_201_a.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -364,6 +411,7 @@
     "rich_text_4eVbxA",
     "slideshow_DFBdcA",
     "slideshow_JF8tab",
-    "slideshow_PfMnV4"
+    "slideshow_PfMnV4",
+    "image_with_text_etzmef"
   ]
 }
