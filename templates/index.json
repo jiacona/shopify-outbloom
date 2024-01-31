@@ -226,6 +226,80 @@
         "show_text_below": false,
         "accessibility_info": "Springtime flowers"
       }
+    },
+    "slideshow_JF8tab": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_rfPxLY": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC03080.jpg",
+            "heading": "Summer",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_8JLhir": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC03752_2.jpg",
+            "heading": "Summer",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_gkEGxw": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20230719_132246_2b3eb907-a84d-4e6b-835e-fa696f601214.jpg",
+            "heading": "Summer",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_rfPxLY",
+        "slide_8JLhir",
+        "slide_gkEGxw"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Summertime flowers"
+      }
     }
   },
   "order": [
@@ -233,6 +307,7 @@
     "rich_text",
     "multicolumn",
     "rich_text_4eVbxA",
-    "slideshow_DFBdcA"
+    "slideshow_DFBdcA",
+    "slideshow_JF8tab"
   ]
 }
