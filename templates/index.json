@@ -300,6 +300,61 @@
         "show_text_below": false,
         "accessibility_info": "Summertime flowers"
       }
+    },
+    "slideshow_PfMnV4": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_Xq3NM3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2491EE91-2781-448E-9A62-47A109B1A138_1_201_a.jpg",
+            "heading": "Fall",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "right"
+          }
+        },
+        "slide_hqLDxk": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20230909_083102_2c58289d-b405-4c24-bc99-841bf595ce4c.jpg",
+            "heading": "Fall",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "right"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Xq3NM3",
+        "slide_hqLDxk"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Fall flowers"
+      }
     }
   },
   "order": [
@@ -308,6 +363,7 @@
     "multicolumn",
     "rich_text_4eVbxA",
     "slideshow_DFBdcA",
-    "slideshow_JF8tab"
+    "slideshow_JF8tab",
+    "slideshow_PfMnV4"
   ]
 }
