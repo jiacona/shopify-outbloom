@@ -76,7 +76,7 @@
             "image": "shopify:\/\/shop_images\/Weddings.png",
             "title": "Weddings",
             "text": "<p>Are you looking for flowers for your wedding? Do you love a more relaxed, wild style? We would love to help you! <\/p><p>We can offer buckets of flowers for the more thrifty DIY-ers out there, as well as bouquets and boutonnières for the wedding party.<\/p>",
-            "link_label": "",
+            "link_label": "Book a wedding",
             "link": ""
           }
         },
@@ -86,7 +86,7 @@
             "image": "shopify:\/\/shop_images\/Workshops.png",
             "title": "Workshops",
             "text": "<p>We are excited to welcome people to the farm for a selection of relaxed workshops. <\/p><p>You’ll be able to see behind the scenes of a working flower farm, pick a selection of your favourite blooms, and learn how to make your flowers look their best.<\/p>",
-            "link_label": "",
+            "link_label": "Book a workshop",
             "link": ""
           }
         },
@@ -96,7 +96,7 @@
             "image": "shopify:\/\/shop_images\/Bouquets.png",
             "title": "Bouquets",
             "text": "<p>Whether you are looking for a stunning bouquet of flowers as a gift, or as a gift to yourself, we’ve got you covered.<\/p><p>You can order online for local deliver, sign up for our subscription flowers, or find us at a range of markets and popups around Ceredigion.<\/p>",
-            "link_label": "",
+            "link_label": "Order bouquets",
             "link": ""
           }
         }
