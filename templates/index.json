@@ -19,28 +19,40 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Sensational flowers grown in West Wales",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>We grow top quality flowers without chemicals and in a way that encourages all kinds of life on the farm. Flowers come in an ever changing selection throughout the growing season. They are alway fresh, scented, and fabulous.<\/p>"
+          }
+        },
+        "button_AfL6Ci": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy flowers",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "button_AfL6Ci"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "scheme-1",
-        "full_width": true,
+        "full_width": false,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 40
       }
     },
     "multicolumn": {
@@ -49,8 +61,9 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Weddings.png",
+            "title": "Weddings",
+            "text": "<p>Are you looking for flowers for your wedding? Do you love a more relaxed, wild style? We would love to help you! <\/p><p>We can offer buckets of flowers for the more thrifty DIY-ers out there, as well as bouquets and boutonnières for the wedding party.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -58,8 +71,9 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Workshops.png",
+            "title": "Workshops",
+            "text": "<p>We are excited to welcome people to the farm for a selection of relaxed workshops. <\/p><p>You’ll be able to see behind the scenes of a working flower farm, pick a selection of your favourite blooms, and learn how to make your flowers look their best.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -67,8 +81,9 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Bouquets.png",
+            "title": "Bouquets",
+            "text": "<p>Whether you are looking for a stunning bouquet of flowers as a gift, or as a gift to yourself, we’ve got you covered.<\/p><p>You can order online for local deliver, sign up for our subscription flowers, or find us at a range of markets and popups around Ceredigion.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -82,14 +97,14 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
+        "image_width": "full",
+        "image_ratio": "square",
         "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
+        "column_alignment": "left",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
