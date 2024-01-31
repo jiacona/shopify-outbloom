@@ -2,6 +2,18 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
+      "blocks": {
+        "heading_aEzrkj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Flowers for all, that don't cost the earth",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aEzrkj"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/DSC03787_e2b1f365-34c9-418e-a926-00a2b04d4214.jpg",
         "desktop_content_position": "bottom-center",
