@@ -1809,6 +1809,16 @@ details[open] > .share-button__fallback {
   color: rgb(0, 0, 0);
 }
 
+input[type="date"].field__input {
+  padding: 1.5rem;
+}
+
+input[type="date"]:before {
+  color: rgba(var(--color-foreground), 0.75);
+  content: attr(placeholder) !important;
+  margin-right: 1em;
+}
+
 /* Text area */
 
 .text-area {

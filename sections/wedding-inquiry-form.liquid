@@ -51,6 +51,7 @@
           </li>
         </ul>
       {%- endif -%}
+      <h2>Basic information</h2>
       <div class="contact__fields">
         <div class="field">
           <input
@@ -58,6 +59,7 @@
             autocomplete="name"
             type="text"
             id="WeddingInqiryForm-name"
+            aria-required="true"
             name="contact[{{ 'templates.contact.form.name' | t }}]"
             value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}"
             placeholder="{{ 'templates.contact.form.name' | t }}"
@@ -119,20 +121,29 @@
           placeholder="Event Date"
         >
       </div>
-      <div class="field">
-        <textarea
-          rows="10"
-          id="WeddingInqiryForm-body"
-          class="text-area field__input"
-          name="contact[{{ 'templates.contact.form.comment' | t }}]"
-          placeholder="{{ 'templates.contact.form.comment' | t }}"
-        >
-          {{- form.body -}}
-        </textarea>
-        <label class="form__label field__label" for="WeddingInqiryForm-body">
-          {{- 'templates.contact.form.comment' | t -}}
-        </label>
+      <hr>
+      <div>
+        <h2>How many flowers are you looking for?</h2>
+
+        <p>This gives us a sense of what you are looking for, and you an idea of what it will all cost</p>
+
+        <h3>Seasonal DIY buckets</h3>
+        <p>
+          An overflowing bucket of seasonal flowers and foliage curated for your color scheme. Expect around 40 stems
+          per bucket
+        </p>
+        <input type="number" name="contact[Showstopper Bouquets]">
+        <h3>Showstopper bouquets</h3>
+        <p>Probably for the bride, but really just for whoever wants the biggest, most luxurious bouquet of the day</p>
+        <input type="number" name="contact[Supporting Bouquets]">
+        <h3>Supporting bouquets</h3>
+        <p>Still stunning, but smaller than the showstopper</p>
+        <input type="number" name="contact[Buttonholes]">
+        <h3>Buttonholes</h3>
+        <p>For whichever lappels need zhuzhing up</p>
+        <input type="number" name="contact[Buttonholes]">
       </div>
+      <hr>
       <div class="contact__button">
         <button type="submit" class="button">
           {{ 'templates.contact.form.send' | t }}
@@ -144,7 +155,7 @@
 
 {% schema %}
 {
-  "name": "t:sections.contact-form.name",
+  "name": "Wedding Inquiry Form",
   "tag": "section",
   "class": "section",
   "disabled_on": {
