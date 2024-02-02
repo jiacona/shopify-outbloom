@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
@@ -9,6 +10,46 @@
     },
     "form": {
       "type": "wedding-inquiry-form",
+      "blocks": {
+        "floral_element_RLtAfb": {
+          "type": "floral_element",
+          "settings": {
+            "heading": "Seasonal DIY buckets",
+            "description": "An overflowing bucket of curated seasonal flowers and foliage. Expect around 40 stems per bucket",
+            "price-per": 48
+          }
+        },
+        "floral_element_jH3akp": {
+          "type": "floral_element",
+          "settings": {
+            "heading": "Showstopper bouquets",
+            "description": "For whoever wants the biggest, most luxurious bouquet of the day. Probably the bouquet for the bride, but we think anyone can be a showstopper if they want to!",
+            "price-per": 95
+          }
+        },
+        "floral_element_q8wFYB": {
+          "type": "floral_element",
+          "settings": {
+            "heading": "Supporting bouquets",
+            "description": "Smaller than the showstopper, but still stunning.",
+            "price-per": 55
+          }
+        },
+        "floral_element_NighaU": {
+          "type": "floral_element",
+          "settings": {
+            "heading": "Buttonholes",
+            "description": "For whichever lapels need zhuzhing up",
+            "price-per": 10
+          }
+        }
+      },
+      "block_order": [
+        "floral_element_RLtAfb",
+        "floral_element_jH3akp",
+        "floral_element_q8wFYB",
+        "floral_element_NighaU"
+      ],
       "settings": {
         "heading": "",
         "heading_size": "h1",
