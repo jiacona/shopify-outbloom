@@ -1,5 +1,30 @@
 {
   "sections": {
+    "image_banner_pWw7P6": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Bt4Tzx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wedding and celebration flowers",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Bt4Tzx"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC03719_2.jpg",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -60,6 +85,7 @@
     }
   },
   "order": [
+    "image_banner_pWw7P6",
     "main",
     "form"
   ]
