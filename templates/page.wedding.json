@@ -9,10 +9,18 @@
             "heading": "Wedding and celebration flowers",
             "heading_size": "h1"
           }
+        },
+        "text_kUgKH6": {
+          "type": "text",
+          "settings": {
+            "text": "We offer DIY buckets of flowers, bouquets and more for the wedding party, or a mix of both. Whatever you go for, they will help make your special day sensational and you even more stun👏ning👏 than you already are, you gorgeous thing you",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
-        "heading_Bt4Tzx"
+        "heading_Bt4Tzx",
+        "text_kUgKH6"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/DSC03719_2.jpg",
@@ -39,7 +47,7 @@
         "column_EaaUAi": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC03796_5fc2f473-0c4a-4a7f-b822-1c4bd1bdee6b.jpg",
+            "image": "shopify:\/\/shop_images\/66C59193-4333-4485-99FB-7CD71CF75F75_1_201_a.jpg",
             "title": "Buckets of blooms",
             "text": "<p>Getting buckets of flowers and doing your own wedding decorations can be a really lovely way of having personal and meaningful decorations, while saving you money at the same time. When you order our buckets, you will be getting a curated selection of the best flowers and foliage that works well together.<\/p>",
             "link_label": "",
@@ -49,7 +57,7 @@
         "column_X4LXDN": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20231016_121927.jpg",
+            "image": "shopify:\/\/shop_images\/Bouquets.png",
             "title": "Bouquets and Buttonholes",
             "text": "<p>To make things a bit easier for you, we are very happy to make bouquets for the wedding party. We don't want to make too many assumptions about what form your special day will take, so we tried to make things simple. Just pick however many of each size bouquet works for you.<\/p><ul><li>Bride, groom, and wedding party? How about 1 showstopper and 3 medium bouquets, and 4 button holes<\/li><li>Are both of you in gowns? Why not go for 2 showstoppers? You know you want to<\/li><li>Both in suits? Buttonholes all around<\/li><\/ul><p>However you do you, let us know and we'd love to make it work for you.<\/p>",
             "link_label": "",
