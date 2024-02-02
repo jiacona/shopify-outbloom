@@ -14,6 +14,32 @@
   }
 {%- endstyle -%}
 
+{% javascript %}
+  (function () {
+    const formBlocks = document.getElementsByClassName('wedding__form-block');
+    const computeTotal = () => {
+      var totalPrice = 0;
+      for (const fb of formBlocks) {
+        const unitPrice = Number(fb.querySelector('[data-unit-price]').dataset.unitPrice);
+        const quantity = Number(fb.querySelector('input[name="quantity"]').valueAsNumber);
+
+        totalPrice = totalPrice + unitPrice * quantity;
+      }
+
+      if (totalPrice !== 0) {
+        document.getElementById('wedding__estimiate').style.display = 'inline';
+        document.getElementById('wedding__estimate-price').innerHTML = totalPrice;
+      } else {
+        document.getElementById('wedding__estimiate').style.display = 'none';
+      }
+    };
+
+    for (const fb of formBlocks) {
+      fb.querySelector('quantity-input').addEventListener('change', computeTotal);
+    }
+  })();
+{% endjavascript %}
+
 <div class="color-{{ section.settings.color_scheme }} gradient">
   <div class="contact page-width page-width--narrow section-{{ section.id }}-padding">
     {%- if section.settings.heading != blank -%}
@@ -121,33 +147,56 @@
           placeholder="Event Date"
         >
       </div>
-      <hr>
       <div>
         <h2>How many flowers are you looking for?</h2>
 
         <p>This gives us a sense of what you are looking for, and you an idea of what it will all cost</p>
 
-        <h3>Seasonal DIY buckets</h3>
-        <p>
-          An overflowing bucket of seasonal flowers and foliage curated for your color scheme. Expect around 40 stems
-          per bucket
-        </p>
-        <input type="number" name="contact[Showstopper Bouquets]">
-        <h3>Showstopper bouquets</h3>
-        <p>Probably for the bride, but really just for whoever wants the biggest, most luxurious bouquet of the day</p>
-        <input type="number" name="contact[Supporting Bouquets]">
-        <h3>Supporting bouquets</h3>
-        <p>Still stunning, but smaller than the showstopper</p>
-        <input type="number" name="contact[Buttonholes]">
-        <h3>Buttonholes</h3>
-        <p>For whichever lappels need zhuzhing up</p>
-        <input type="number" name="contact[Buttonholes]">
+        {%- for block in section.blocks -%}
+          <div class="wedding__form-block">
+            <div class="wedding__form-block-description">
+              <h3>{{ block.settings.heading | escape }}</h3>
+              <p>{{ block.settings.description | escape }}</p>
+            </div>
+            <div class="wedding__form-block-selector">
+              <p class="price" data-unit-price="{{ block.settings['price-per'] }}">
+                £{{ block.settings['price-per'] }} each
+              </p>
+              <label class="quantity__label form__label" for="Wedding-{{ block.id }}">
+                {{ 'products.product.quantity.label' | t }}
+              </label>
+              <quantity-input class="quantity">
+                <button class="quantity__button no-js-hidden" name="minus" type="button">
+                  <span class="visually-hidden">
+                    {{- 'products.product.quantity.decrease' | t: product: product.title | escape -}}
+                  </span>
+                  {% render 'icon-minus' %}
+                </button>
+                <input
+                  class="quantity__input"
+                  type="number"
+                  name="quantity"
+                  id="Wedding-{{ block.id }}"
+                  min="0"
+                  step="1"
+                  value="0"
+                >
+                <button class="quantity__button no-js-hidden" name="plus" type="button">
+                  <span class="visually-hidden">
+                    {{- 'products.product.quantity.increase' | t: product: product.title | escape -}}
+                  </span>
+                  {% render 'icon-plus' %}
+                </button>
+              </quantity-input>
+            </div>
+          </div>
+        {% endfor %}
       </div>
-      <hr>
-      <div class="contact__button">
-        <button type="submit" class="button">
-          {{ 'templates.contact.form.send' | t }}
-        </button>
+      <div class="wedding__form-end">
+        <button type="submit" class="button">Send enquiry</button>
+        <p id="wedding__estimiate" class="price" style="display: none">
+          Estimated price: £<span id="wedding__estimate-price"></span>
+        </p>
       </div>
     {%- endform -%}
   </div>
@@ -222,6 +271,32 @@
   "presets": [
     {
       "name": "t:sections.contact-form.presets.name"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "floral_element",
+      "name": "Floral element",
+      "settings": [
+        {
+          "type": "text",
+          "id": "heading",
+          "label": "Heading",
+          "info": "blarg"
+        },
+        {
+          "type": "text",
+          "id": "description",
+          "label": "Description",
+          "info": "blarg"
+        },
+        {
+          "type": "number",
+          "id": "price-per",
+          "label": "Price per element",
+          "info": "blarg"
+        }
+      ]
     }
   ]
 }
