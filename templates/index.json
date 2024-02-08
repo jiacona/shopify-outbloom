@@ -15,7 +15,7 @@
         "heading_aEzrkj"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSC03787_e2b1f365-34c9-418e-a926-00a2b04d4214.jpg",
+        "image": "shopify:\/\/shop_images\/DSC03788_1bf45a45-38b5-494e-ac59-989a688d4227.jpg",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -73,17 +73,17 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Weddings.png",
+            "image": "shopify:\/\/shop_images\/IMG_20220826_125119.jpg",
             "title": "Weddings",
             "text": "<p>Are you looking for flowers for your wedding? Do you love a more relaxed, wild style? We would love to help you! <\/p><p>We can offer buckets of flowers for the more thrifty DIY-ers out there, as well as bouquets and boutonnières for the wedding party.<\/p>",
             "link_label": "Book a wedding",
-            "link": "shopify:\/\/pages\/weddings"
+            "link": "shopify:\/\/pages\/weddings-and-ceremonies"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Workshops.png",
+            "image": "shopify:\/\/shop_images\/DSC03810_3c5ff7e8-c741-4df3-a24f-678c02ee2163.jpg",
             "title": "Workshops",
             "text": "<p>We are excited to welcome people to the farm for a selection of relaxed workshops. <\/p><p>You’ll be able to see behind the scenes of a working flower farm, pick a selection of your favourite blooms, and learn how to make your flowers look their best.<\/p>",
             "link_label": "Book a workshop",
@@ -159,7 +159,6 @@
         "slide_ETawrK": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC03648.jpg",
             "heading": "Springtime",
             "heading_size": "h1",
             "subheading": "",
@@ -177,7 +176,6 @@
         "slide_GLGeXM": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20230414_105216.jpg",
             "heading": "Springtime",
             "heading_size": "h1",
             "subheading": "",
@@ -195,7 +193,6 @@
         "slide_aY9GAC": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/94F61ED8-8124-4BAD-B212-33E2E818B191_1_105_c.jpg",
             "heading": "Springtime",
             "heading_size": "h1",
             "subheading": "",
@@ -251,7 +248,6 @@
         "slide_8JLhir": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20230719_132246_2b3eb907-a84d-4e6b-835e-fa696f601214.jpg",
             "heading": "Summer",
             "heading_size": "h1",
             "subheading": "",
@@ -269,7 +265,6 @@
         "slide_gkEGxw": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/original_0cb3306f-ade7-4f3f-942b-f0964d8b1fb2_IMG_20230707_101949.jpg",
             "heading": "Summer",
             "heading_size": "h1",
             "subheading": "",
@@ -307,7 +302,6 @@
         "slide_Xq3NM3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2491EE91-2781-448E-9A62-47A109B1A138_1_201_a.jpg",
             "heading": "Fall",
             "heading_size": "h1",
             "subheading": "",
@@ -325,7 +319,6 @@
         "slide_hqLDxk": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20230909_083102_2c58289d-b405-4c24-bc99-841bf595ce4c.jpg",
             "heading": "Fall",
             "heading_size": "h1",
             "subheading": "",
@@ -388,7 +381,7 @@
         "button_3GAg76"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_20230715_090543.jpg",
+        "image": "shopify:\/\/shop_images\/DSC03796.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
