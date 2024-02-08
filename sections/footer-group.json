@@ -8,34 +8,27 @@
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
-          }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Info",
+            "heading": "Explore the site",
             "menu": "footer"
           }
         },
         "footer-2": {
           "type": "text",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "heading": "Get in touch",
+            "subtext": "<p>Email: john@outbloom.co.uk<\/p><p>Phone\/WhatsApp: 07761914582<\/p><p><a href=\"http:\/\/m.me\/outbloomfarm\" target=\"_blank\" title=\"Facebook Messenger\">Facebook messenger<\/a><\/p><p><a href=\"https:\/\/ig.me\/m\/outbloomfarm\" target=\"_blank\" title=\"https:\/\/ig.me\/m\/outbloomfarm\">Instagram messenger<\/a><\/p>"
           }
         }
       },
       "block_order": [
         "footer-0",
-        "footer-1",
         "footer-2"
       ],
       "settings": {
         "color_scheme": "scheme-1",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": false,
         "enable_language_selector": false,
