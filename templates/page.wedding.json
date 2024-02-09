@@ -26,9 +26,9 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/DSC03719_2.jpg",
         "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "show_text_below": false
