@@ -45,6 +45,13 @@
     "rich_text_9UFCyp": {
       "type": "rich-text",
       "blocks": {
+        "heading_7rHtmB": {
+          "type": "heading",
+          "settings": {
+            "heading": "What we offer",
+            "heading_size": "h1"
+          }
+        },
         "text_hyKeJP": {
           "type": "text",
           "settings": {
@@ -53,6 +60,7 @@
         }
       },
       "block_order": [
+        "heading_7rHtmB",
         "text_hyKeJP"
       ],
       "settings": {
@@ -93,7 +101,7 @@
         "column_X4LXDN"
       ],
       "settings": {
-        "title": "What we offer",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
