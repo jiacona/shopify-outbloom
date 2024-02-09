@@ -12,8 +12,9 @@
         },
         "text_kUgKH6": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "We offer DIY buckets of flowers, bouquets and more for the wedding party, or a mix of both. Whatever you go for, they will help make your special day sensational and you even more stun👏ning👏 than you already are, you gorgeous thing you",
+            "text": "",
             "text_style": "body"
           }
         }
@@ -29,7 +30,7 @@
         "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "mobile_content_alignment": "left",
         "show_text_below": true
       }
     },
@@ -39,6 +40,28 @@
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_9UFCyp": {
+      "type": "rich-text",
+      "blocks": {
+        "text_hyKeJP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We offer DIY buckets of flowers, bouquets and more for the wedding party, or a mix of both. Whatever you go for, they will help make your special day sensational and you even more stun👏ning👏 than you already are, you gorgeous thing you<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_hyKeJP"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multicolumn_NekTM6": {
@@ -140,6 +163,7 @@
   "order": [
     "image_banner_pWw7P6",
     "main",
+    "rich_text_9UFCyp",
     "multicolumn_NekTM6",
     "form"
   ]
