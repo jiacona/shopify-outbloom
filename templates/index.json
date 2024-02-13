@@ -15,7 +15,6 @@
         "heading_aEzrkj"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/2491EE91-2781-448E-9A62-47A109B1A138_1_201_a.jpg",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -83,7 +82,7 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Weddings.png",
+            "image": "shopify:\/\/shop_images\/IMG_20220826_125119.jpg",
             "title": "Weddings",
             "text": "<p>Are you looking for flowers for your wedding? Do you love a more relaxed, wild style? We would love to help you! <\/p><p>We can offer buckets of flowers for the more thrifty DIY-ers out there, as well as bouquets and boutonnières for the wedding party.<\/p>",
             "link_label": "Book a wedding",
@@ -93,7 +92,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Workshops.png",
+            "image": "shopify:\/\/shop_images\/DSC03810_4fe8fc0a-c981-41f1-8d27-c2fbd028b942.jpg",
             "title": "Workshops",
             "text": "<p>We are excited to welcome people to the farm for a selection of relaxed workshops. <\/p><p>You’ll be able to see behind the scenes of a working flower farm, pick a selection of your favourite blooms, and learn how to make your flowers look their best.<\/p>",
             "link_label": "Book a workshop",
@@ -159,6 +158,7 @@
         "slide_ETawrK": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/DSC03621.jpg",
             "heading": "Spring",
             "heading_size": "h1",
             "subheading": "",
@@ -176,6 +176,7 @@
         "slide_GLGeXM": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/6FDEA10D-7462-482B-89D7-AF215C46D211_Large_bef1588f-c4e8-4f58-81a0-388a88da5edb.jpg",
             "heading": "Spring",
             "heading_size": "h1",
             "subheading": "",
@@ -193,6 +194,7 @@
         "slide_aY9GAC": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/DSC02699-sq_841ba0ae-6a3a-4a88-8dc3-0791b640b194.jpg",
             "heading": "Spring",
             "heading_size": "h1",
             "subheading": "",
@@ -248,6 +250,7 @@
         "slide_8JLhir": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20230616_174244.jpg",
             "heading": "Summer",
             "heading_size": "h1",
             "subheading": "",
@@ -265,6 +268,7 @@
         "slide_gkEGxw": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/DSC03107.jpg",
             "heading": "Summer",
             "heading_size": "h1",
             "subheading": "",
@@ -302,6 +306,7 @@
         "slide_Xq3NM3": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20231016_121927.jpg",
             "heading": "Autumn",
             "heading_size": "h1",
             "subheading": "",
@@ -319,6 +324,7 @@
         "slide_hqLDxk": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20231025_133704.jpg",
             "heading": "Autumn",
             "heading_size": "h1",
             "subheading": "",
@@ -336,6 +342,7 @@
         "slide_bfnXmy": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20230921_102842.jpg",
             "heading": "Autumn",
             "heading_size": "h1",
             "subheading": "",
