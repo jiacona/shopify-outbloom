@@ -322,7 +322,7 @@
     "collection_template": {
       "empty": "Nothing available right now",
       "title": "Collection",
-      "use_fewer_filters_html": ""
+      "use_fewer_filters_html": " "
     },
     "video": {
       "load_video": "Load video: {{ description }}"
