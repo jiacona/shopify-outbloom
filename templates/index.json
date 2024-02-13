@@ -70,6 +70,16 @@
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC03080.jpg",
+            "title": "Bouquets",
+            "text": "<p>Whether you are looking for a stunning bouquet of flowers as a gift, or as a gift to yourself, we’ve got you covered.<\/p><p>You can order online for local deliver, sign up for our subscription flowers, or find us at a range of markets and popups around Ceredigion.<\/p>",
+            "link_label": "Order bouquets",
+            "link": "shopify:\/\/products\/gift-bouquet"
+          }
+        },
         "column1": {
           "type": "column",
           "settings": {
@@ -89,22 +99,12 @@
             "link_label": "Book a workshop",
             "link": "shopify:\/\/collections\/farm-workshops"
           }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSC03080.jpg",
-            "title": "Bouquets",
-            "text": "<p>Whether you are looking for a stunning bouquet of flowers as a gift, or as a gift to yourself, we’ve got you covered.<\/p><p>You can order online for local deliver, sign up for our subscription flowers, or find us at a range of markets and popups around Ceredigion.<\/p>",
-            "link_label": "Order bouquets",
-            "link": "shopify:\/\/products\/gift-bouquet"
-          }
         }
       },
       "block_order": [
+        "column3",
         "column1",
-        "column2",
-        "column3"
+        "column2"
       ],
       "settings": {
         "title": "",
@@ -177,7 +177,8 @@
         "slide_GLGeXM": {
           "type": "slide",
           "settings": {
-            "heading": "Springtime",
+            "image": "shopify:\/\/shop_images\/6FDEA10D-7462-482B-89D7-AF215C46D211_Large_bef1588f-c4e8-4f58-81a0-388a88da5edb.jpg",
+            "heading": "Spring",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
@@ -194,7 +195,8 @@
         "slide_aY9GAC": {
           "type": "slide",
           "settings": {
-            "heading": "Springtime",
+            "image": "shopify:\/\/shop_images\/DSC02699-sq.jpg",
+            "heading": "Spring",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
@@ -249,6 +251,7 @@
         "slide_8JLhir": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/DSC03107.jpg",
             "heading": "Summer",
             "heading_size": "h1",
             "subheading": "",
@@ -266,6 +269,7 @@
         "slide_gkEGxw": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20230616_174244.jpg",
             "heading": "Summer",
             "heading_size": "h1",
             "subheading": "",
@@ -321,6 +325,25 @@
         "slide_hqLDxk": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20231025_133704.jpg",
+            "heading": "Autumn",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "right"
+          }
+        },
+        "slide_bfnXmy": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20230921_102842.jpg",
             "heading": "Autumn",
             "heading_size": "h1",
             "subheading": "",
@@ -338,7 +361,8 @@
       },
       "block_order": [
         "slide_Xq3NM3",
-        "slide_hqLDxk"
+        "slide_hqLDxk",
+        "slide_bfnXmy"
       ],
       "settings": {
         "layout": "grid",
@@ -382,6 +406,7 @@
         "text_FbYneA",
         "button_3GAg76"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/DSC03796.jpg",
         "height": "adapt",
