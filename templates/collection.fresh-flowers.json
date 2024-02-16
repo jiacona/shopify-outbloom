@@ -1,5 +1,30 @@
 {
   "sections": {
+    "image_banner_NNccJK": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_CFReeU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fresh flowers",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CFReeU"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_20231016_121927.jpg",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -30,6 +55,7 @@
     }
   },
   "order": [
+    "image_banner_NNccJK",
     "banner",
     "product-grid"
   ]
