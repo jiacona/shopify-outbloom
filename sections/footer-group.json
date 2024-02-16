@@ -16,7 +16,7 @@
           "type": "text",
           "settings": {
             "heading": "Get in touch",
-            "subtext": "<p>Email: john@outbloom.co.uk<br\/>Phone\/WhatsApp: 07761914582<br\/><a href=\"http:\/\/m.me\/outbloomfarm\" target=\"_blank\" title=\"Get in touch via Facebook messenger\">Facebook messenger<br\/><\/a><a href=\"https:\/\/ig.me\/m\/outbloomfarm\" target=\"_blank\" title=\"Get in touch via Instagram messenger\">Instagram messenger<\/a><\/p>"
+            "subtext": "<p>Email: john@outbloom.co.uk<br\/>Phone\/WhatsApp: 07761914582<br\/><a href=\"https:\/\/m.me\/outbloomfarm\" target=\"_blank\" title=\"Get in touch via Facebook messenger\">Facebook messenger<br\/><\/a><a href=\"https:\/\/ig.me\/m\/outbloomfarm\" target=\"_blank\" title=\"Get in touch via Instagram messenger\">Instagram messenger<\/a><\/p>"
           }
         }
       },
