@@ -195,7 +195,7 @@
         "slide_aY9GAC": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC02699-sq_841ba0ae-6a3a-4a88-8dc3-0791b640b194.jpg",
+            "image": "shopify:\/\/shop_images\/DSC02699-sq_5390eab4-50b4-44cc-b750-86880b840ff7.jpg",
             "heading": "Spring",
             "heading_size": "h1",
             "subheading": "",
@@ -248,24 +248,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_8JLhir": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20230616_174244.jpg",
-            "heading": "Summer",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_gkEGxw": {
           "type": "slide",
           "settings": {
@@ -283,12 +265,30 @@
             "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_8JLhir": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20230616_174244.jpg",
+            "heading": "Summer",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_rfPxLY",
-        "slide_8JLhir",
-        "slide_gkEGxw"
+        "slide_gkEGxw",
+        "slide_8JLhir"
       ],
       "settings": {
         "layout": "grid",
