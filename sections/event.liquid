@@ -1,0 +1,63 @@
+{{ 'component-image-with-text.css' | asset_url | stylesheet_tag }}
+
+<div class="page-width">
+  <div class="image-with-text image-with-text--no-overlap isolate scroll-trigger animate--slide-in">
+    <div class="image-with-text__grid grid grid--gapless grid--1-col grid--2-col-tablet">
+      <div class="image-with-text__media-item image-with-text__media-item--medium image-with-text__media-item--left grid__item">
+        <div
+          class="image-with-text__media image-with-text__media--medium  global-media-settings{% if metaobject.image.value != blank %} media{% else %} image-with-text__media--placeholder placeholder{% endif %}"
+        >
+          {%- if metaobject.image.value != blank -%}
+            {%- assign widths = '165, 360, 535, 750, 1070, 1500' -%}
+            {%- capture sizes -%}
+              (min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 2 }}px,
+              (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)
+            {%- endcapture -%}
+            {{ metaobject.image.value | image_url: width: 1500 | image_tag: sizes: sizes, widths: widths }}
+          {%- endif -%}
+        </div>
+      </div>
+      <div class="image-with-text__text-item grid__item">
+        <div
+          id="event-image"
+          class="image-with-text__content image-with-text__content--left image-with-text__content--desktop-left image-with-text__content--mobile-left image-with-text__content--adapt content-container background-transparent"
+        >
+          <h2
+            class="image-with-text__heading inline-richtext h1"
+          >
+            {{ metaobject.name.value }}
+          </h2>
+          <p
+            class="image-with-text__text image-with-text__text--caption h2"
+          >
+            {% for event_date in metaobject.dates.value %}
+              {{ event_date | date: '%B %d, %Y' -}}
+              {%- if forloop.last %}, {% else %} - {% endif %}
+            {% endfor %}
+            {{ metaobject.time.value }}
+          </p>
+          <div class="image-with-text__text rte">
+            <p>{{ metaobject.description.value }}</p>
+            <p><b>Location</b></p>
+            <p>{{ metaobject.location.value }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Event display",
+  "tag": "section",
+  "class": "section",
+  "disabled_on": {
+    "groups": ["header", "footer"]
+  },
+  "presets": [
+    {
+      "name": "Event display"
+    }
+  ]
+}
+{% endschema %}
