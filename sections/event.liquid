@@ -37,7 +37,7 @@
             {{ metaobject.time.value }}
           </p>
           <div class="image-with-text__text rte">
-            <p>{{ metaobject.description.value }}</p>
+            <p>{{ metaobject.description | metafield_tag }}</p>
             <p><b>Location</b></p>
             <p>{{ metaobject.location.value }}</p>
           </div>
