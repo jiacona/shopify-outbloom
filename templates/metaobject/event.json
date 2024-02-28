@@ -13,7 +13,7 @@
         "text_KfkVze": {
           "type": "text",
           "settings": {
-            "text": "{{ metaobject.description | metafield_tag }}",
+            "text": "{{ metaobject.description | metafield_tag }}<p><strong>Location<\/strong><\/p><p>{{ metaobject.location | metafield_tag }}<\/p>",
             "text_style": "body"
           }
         },
@@ -21,8 +21,8 @@
           "type": "caption",
           "settings": {
             "caption": "{{ metaobject.date | metafield_text }}",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
+            "text_style": "subtitle",
+            "text_size": "large"
           }
         }
       },
@@ -32,6 +32,7 @@
         "caption_E4miWm"
       ],
       "settings": {
+        "image": "{{ metaobject.image.value }}",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
