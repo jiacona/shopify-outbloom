@@ -46,7 +46,7 @@
         "text_arm3yF": {
           "type": "text",
           "settings": {
-            "text": "<p>We have an ever expanding range of high quality, seasonal flowers and foliage available for florists in the South\/West Wales area who  want to buy wholesale. <\/p><p><a href=\"mailto:john@outbloom.co.uk?subject=Wholesale flowers enquiry\" title=\"Enquire about wholesale flowers\">Get in touch<\/a> to sign up for our weekly availability list and to be able to order from the wholesale catalog. <\/p>",
+            "text": "<p>We have an ever expanding range of high quality, seasonal flowers and foliage available for florists in the South\/West Wales area who  want to buy wholesale. <\/p><p>Get in touch at <a href=\"mailto:john@outbloom.co.uk?subject=Wholesale flowers enquiry\" title=\"Email us\">john@outbloom.co.uk<\/a> to sign up for our weekly availability list and to be able to order from the wholesale catalog. <\/p>",
             "text_style": "body"
           }
         },
@@ -93,12 +93,13 @@
         "text_cgLTL6": {
           "type": "text",
           "settings": {
-            "text": "<p>With our guesthouse blooms service, we supply a beautifully arranged bouquet each week. We’ll deliver to your central business location or directly to your guest house in time for changeover. This service is available during our growing season which starts in mid March and runs through October. <\/p>",
+            "text": "<p>With our guesthouse blooms service, we supply a beautifully arranged bouquet each week. We’ll deliver to your central business location or directly to your guest house in time for changeover. This service is available during our growing season which starts in mid March and runs through October. <\/p><p>Get in touch at <a href=\"mailto:john@outbloom.co.uk?subject=Wholesale flowers enquiry\" title=\"Email us\">john@outbloom.co.uk<\/a> to learn more.<\/p>",
             "text_style": "body"
           }
         },
         "button_xBtxAJ": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Get in touch",
             "button_link": "mailto:john@outbloom.co.uk?subject=Guesthouse blooms enquiry",
