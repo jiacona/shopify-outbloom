@@ -391,15 +391,15 @@
         "text_FbYneA": {
           "type": "text",
           "settings": {
-            "text": "<p>We supply flowers to a range of businesses in the West Wales area. If you are a florists who would like access to our range of high quality flowers, or a holiday home who would like to give your guests the most delightful welcome of fresh local flowers, please get in touch.<\/p>",
+            "text": "<p>We supply flowers to a range of businesses in the West Wales area. If you are a florists who would like access to our range of high quality flowers, or a holiday home who would like to give your guests the most delightful welcome of fresh local flowers, we can help.<\/p>",
             "text_style": "body"
           }
         },
         "button_3GAg76": {
           "type": "button",
           "settings": {
-            "button_label": "Wholesale flowers",
-            "button_link": "",
+            "button_label": "Find out more",
+            "button_link": "shopify:\/\/pages\/flowers-for-business",
             "button_style_secondary": false
           }
         }
@@ -409,8 +409,8 @@
         "text_FbYneA",
         "button_3GAg76"
       ],
-      "disabled": true,
       "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_20230715_090543.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
