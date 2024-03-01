@@ -6,7 +6,7 @@
         "heading_UYi66U": {
           "type": "heading",
           "settings": {
-            "heading": "Wholesale flowers",
+            "heading": "Flowers for business",
             "heading_size": "h1"
           }
         }
@@ -27,14 +27,63 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "image_with_text_xAxEEV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_3nH4xM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wholesale flowers for florists",
+            "heading_size": "h1"
+          }
+        },
+        "text_arm3yF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We have an ever expanding range of high quality, seasonal flowers and foliage available for florists in the South\/West Wales area who  want to buy wholesale. <\/p><p>Get in touch to sign up for our weekly availability list and to be able to order from the wholesale catalog. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_UM6biA": {
+          "type": "button",
+          "settings": {
+            "button_label": "See current availability",
+            "button_link": "shopify:\/\/collections\/wholesale",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3nH4xM",
+        "text_arm3yF",
+        "button_UM6biA"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_20230526_202608_bd445934-b184-43fe-ba5a-9aa77a7036d3.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "image_banner_LU9Gd9",
-    "main"
+    "main",
+    "image_with_text_xAxEEV"
   ]
 }
