@@ -55,7 +55,7 @@
           "settings": {
             "button_label": "See current availability",
             "button_link": "shopify:\/\/collections\/wholesale",
-            "button_style_secondary": false
+            "button_style_secondary": true
           }
         }
       },
