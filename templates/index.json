@@ -195,7 +195,8 @@
         "email_form_7BWKtJ"
       ],
       "custom_css": [
-        ".newsletter-form {align-items: flex-start;}"
+        ".newsletter-form {align-items: flex-start;}",
+        "@media screen and (min-width: 750px) {.newsletter-form {margin-left: 5rem; } .newsletter__wrapper {padding-left: 0; }}"
       ],
       "settings": {
         "color_scheme": "",
