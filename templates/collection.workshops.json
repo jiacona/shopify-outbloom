@@ -27,10 +27,93 @@
     },
     "banner": {
       "type": "main-collection-banner",
+      "custom_css": [
+        ".collection-hero__description {font-size: 16px;}"
+      ],
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
         "color_scheme": "scheme-1"
+      }
+    },
+    "rich_text_PbWTCh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nP4eDc": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_RWK8Xy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We will offer a variety of other workshops through the year. Sign up for our monthly-ish newsletter to hear about them by popping your email in the box below.<\/p>"
+          }
+        },
+        "button_E4Dxex": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nP4eDc",
+        "text_RWK8Xy",
+        "button_E4Dxex"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "newsletter_VAhwfT": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_qVdYg9": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_NgJnk9": {
+          "type": "paragraph",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email_form_piPNBT": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_qVdYg9",
+        "paragraph_NgJnk9",
+        "email_form_piPNBT"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "product-grid": {
@@ -57,6 +140,8 @@
   "order": [
     "image_banner_rpq6hx",
     "banner",
+    "rich_text_PbWTCh",
+    "newsletter_VAhwfT",
     "product-grid"
   ]
 }
