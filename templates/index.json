@@ -228,63 +228,7 @@
         "slide_GLGeXM": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/6FDEA10D-7462-482B-89D7-AF215C46D211_Large_bef1588f-c4e8-4f58-81a0-388a88da5edb.jpg",
-            "heading": "Spring",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
-            "text_alignment_mobile": "left"
-          }
-        },
-        "slide_aY9GAC": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSC02699-sq_5390eab4-50b4-44cc-b750-86880b840ff7.jpg",
-            "heading": "Spring",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_ETawrK",
-        "slide_GLGeXM",
-        "slide_aY9GAC"
-      ],
-      "settings": {
-        "layout": "grid",
-        "slide_height": "large",
-        "slider_visual": "dots",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": "Springtime flowers"
-      }
-    },
-    "slideshow_JF8tab": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_rfPxLY": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSC03080.jpg",
+            "image": "shopify:\/\/shop_images\/DSC03080_028eb57a-f1f5-4ed0-b7f5-67674cad3f19.jpg",
             "heading": "Summer",
             "heading_size": "h1",
             "subheading": "",
@@ -299,10 +243,104 @@
             "text_alignment_mobile": "center"
           }
         },
+        "slide_ya4X3i": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2491EE91-2781-448E-9A62-47A109B1A138_1_201_a.jpg",
+            "heading": "Summer",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_aY9GAC": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20231016_121927.jpg",
+            "heading": "Autumn",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "right"
+          }
+        },
+        "slide_VfydWB": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20230921_102842.jpg",
+            "heading": "Autumn",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_ETawrK",
+        "slide_GLGeXM",
+        "slide_ya4X3i",
+        "slide_aY9GAC",
+        "slide_VfydWB"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Springtime flowers"
+      }
+    },
+    "slideshow_JF8tab": {
+      "type": "slideshow",
+      "blocks": {
         "slide_gkEGxw": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC03107.jpg",
+            "heading": "Summer",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_rfPxLY": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC03080.jpg",
             "heading": "Summer",
             "heading_size": "h1",
             "subheading": "",
@@ -337,10 +375,11 @@
         }
       },
       "block_order": [
-        "slide_rfPxLY",
         "slide_gkEGxw",
+        "slide_rfPxLY",
         "slide_8JLhir"
       ],
+      "disabled": true,
       "settings": {
         "layout": "grid",
         "slide_height": "small",
@@ -415,6 +454,7 @@
         "slide_hqLDxk",
         "slide_bfnXmy"
       ],
+      "disabled": true,
       "settings": {
         "layout": "grid",
         "slide_height": "small",
