@@ -160,7 +160,7 @@
         "desktop_content_position": "left",
         "content_alignment": "left",
         "color_scheme": "",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 40,
         "padding_bottom": 12
       }
@@ -195,7 +195,7 @@
         "email_form_7BWKtJ"
       ],
       "custom_css": [
-        ".newsletter-form {align-items: flex-start; padding-left: 15px;}"
+        ".newsletter-form {align-items: flex-start;}"
       ],
       "settings": {
         "color_scheme": "",
