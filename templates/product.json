@@ -23,6 +23,14 @@
             "text_style": "subtitle"
           }
         },
+        "inventory_iXDybi": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "uppercase",
+            "inventory_threshold": 5,
+            "show_inventory_quantity": true
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -103,6 +111,7 @@
         "vendor",
         "title",
         "caption",
+        "inventory_iXDybi",
         "price",
         "variant_picker",
         "quantity_selector",
