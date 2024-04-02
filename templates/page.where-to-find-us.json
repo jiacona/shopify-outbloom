@@ -134,6 +134,25 @@
         "padding_bottom": 40
       }
     },
+    "newsletter_QHY4BQ": {
+      "type": "newsletter",
+      "blocks": {
+        "email_form_RdXH6t": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "email_form_RdXH6t"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_AmtmzN": {
       "type": "rich-text",
       "blocks": {
@@ -212,6 +231,7 @@
     "image_banner_77Jfqc",
     "multicolumn_wzeqYp",
     "rich_text_LCjCaD",
+    "newsletter_QHY4BQ",
     "rich_text_AmtmzN",
     "rich_text_Dw48Nt"
   ]
