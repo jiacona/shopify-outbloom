@@ -31,7 +31,7 @@
         "text_ti9RjW"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/florist-email_-_1.jpg",
+        "image": "shopify:\/\/shop_images\/DSC046852.jpg",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -103,11 +103,116 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_LCjCaD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fG64Ci": {
+          "type": "heading",
+          "settings": {
+            "heading": "Special events",
+            "heading_size": "h1"
+          }
+        },
+        "text_ihWPeG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In addition to our regular markets and events, we are sometimes at special events and pop-ups<\/p><ul><li><strong>May 26 - May 27, 10:00 - 17:00 - <\/strong><a href=\"https:\/\/outbloom.co.uk\/pages\/event\/aberaeron-garden-festival\" title=\"Aberaeron Garden Festival\">Aberaeron Garden Festival<\/a><\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fG64Ci",
+        "text_ihWPeG"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_AmtmzN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qLp4Qb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stockists",
+            "heading_size": "h1"
+          }
+        },
+        "text_YMeFPP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>During our fresh season you can find our bouquets in these classy establishments.<\/p><p><strong>New Medical Hall<br\/><\/strong><a href=\"https:\/\/maps.app.goo.gl\/oyG4enG9Z3j7ojL8A\" title=\"Map to New Medical Hall\">Station Road, Tregaron, Ceredigion, SY25 6HU<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qLp4Qb",
+        "text_YMeFPP"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_Dw48Nt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GPn47a": {
+          "type": "heading",
+          "settings": {
+            "heading": "Local delivery",
+            "heading_size": "h1"
+          }
+        },
+        "text_CDTtUc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We do local delivery within 30 minutes of the farm in Betws Bledrws, SA48 8PA. That covers the following towns and their surrounding villages: Lampeter, Tragaron, Aberaeron, Llanybydder.<\/p>"
+          }
+        },
+        "button_6RqGNN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Order flowers",
+            "button_link": "shopify:\/\/collections\/fresh-flowers",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GPn47a",
+        "text_CDTtUc",
+        "button_6RqGNN"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "image_banner_77Jfqc",
-    "multicolumn_wzeqYp"
+    "multicolumn_wzeqYp",
+    "rich_text_LCjCaD",
+    "rich_text_AmtmzN",
+    "rich_text_Dw48Nt"
   ]
 }
