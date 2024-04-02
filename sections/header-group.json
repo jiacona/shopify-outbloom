@@ -8,17 +8,16 @@
         "announcement_ydnPxN": {
           "type": "announcement",
           "settings": {
-            "text": "Orders placed now will not be able to be fulfilled until at least the 22nd of February. Sorry for the delay!",
-            "link": ""
+            "text": "Fresh flower season is upon us! Get yours now 💐",
+            "link": "shopify:\/\/collections\/fresh-flowers"
           }
         }
       },
       "block_order": [
         "announcement_ydnPxN"
       ],
-      "disabled": true,
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-4",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": false,
