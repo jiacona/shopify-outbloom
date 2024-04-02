@@ -40,10 +40,74 @@
         "mobile_content_alignment": "center",
         "show_text_below": true
       }
+    },
+    "multicolumn_wzeqYp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Myxec4": {
+          "type": "column",
+          "settings": {
+            "title": "First Saturday",
+            "text": "<p>Come along for one of our <a href=\"https:\/\/online-store-web.shopifyapps.com\/collections\/farm-workshops\" title=\"Field to vase workshop at Outbloom farm\">field to vase mornings<\/a> at the farm from <strong>10:30 - 12:30<\/strong><\/p><ul><li>April 6th<\/li><li>May 4th<\/li><li>June 1st<\/li><li>July 6th<\/li><li>August 3rd<\/li><li>September 7th<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bByW46": {
+          "type": "column",
+          "settings": {
+            "title": "Second Saturday",
+            "text": "<p>We'll have a stall at the <a href=\"https:\/\/www.facebook.com\/lampetermarket\" target=\"_blank\" title=\"Marchnad Llambed - Lampeter Market\">Marchnad Llambed - Lampeter Market<\/a> from <strong>10:00 - 13:00<\/strong><\/p><ul><li>April 13th<\/li><li>May 11th<\/li><li>June 8th<\/li><li>July 13th<\/li><li>August 10th<\/li><li>September 14th<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pUH3q6": {
+          "type": "column",
+          "settings": {
+            "title": "Third Saturday",
+            "text": "<p>We'll be at the <a href=\"https:\/\/maps.app.goo.gl\/L1umt4n2x4K669k48\" target=\"_blank\" title=\"Map to Aberaeron Yacht Club\">Aberaeron Yacht Club<\/a> for the new Harbour View farmers market from <strong>10:00 - 14:30<\/strong><\/p><ul><li>April 20th<\/li><li>May 18th<\/li><li>June 21st<\/li><li>July 20th<\/li><li>August 17th<\/li><li>September 21st<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_d8HQqU": {
+          "type": "column",
+          "settings": {
+            "title": "Fourth Saturday",
+            "text": "<p>We're out front at <a href=\"https:\/\/www.watsonandpratts.co.uk\/\" title=\"Watson & Pratt's\">Watson & Pratt's Lampeter<\/a> from <strong>9:30 - 13:00<\/strong><\/p><ul><li>April 27th<\/li><li>May 24th<\/li><li>June 28th<\/li><li>July 27th<\/li><li>August 24th<\/li><li>September 28th<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Myxec4",
+        "column_bByW46",
+        "column_pUH3q6",
+        "column_d8HQqU"
+      ],
+      "settings": {
+        "title": "Regular Monthly events for your diary",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_77Jfqc"
+    "image_banner_77Jfqc",
+    "multicolumn_wzeqYp"
   ]
 }
