@@ -41,6 +41,15 @@
         "show_text_below": true
       }
     },
+    "custom_liquid_pw94Ca": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<a name=\"regular-events\"><\/a>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_wzeqYp": {
       "type": "multicolumn",
       "blocks": {
@@ -229,6 +238,7 @@
   "order": [
     "main",
     "image_banner_77Jfqc",
+    "custom_liquid_pw94Ca",
     "multicolumn_wzeqYp",
     "rich_text_LCjCaD",
     "newsletter_QHY4BQ",
