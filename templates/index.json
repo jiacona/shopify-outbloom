@@ -17,12 +17,12 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/DSC03080_028eb57a-f1f5-4ed0-b7f5-67674cad3f19.jpg",
         "desktop_content_position": "bottom-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "rich_text": {
