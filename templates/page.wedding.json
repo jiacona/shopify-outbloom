@@ -147,7 +147,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/website-wedding-3_b7b1c99a-7eb1-4737-afb6-64d291686f5a.jpg",
-        "height": "medium",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
