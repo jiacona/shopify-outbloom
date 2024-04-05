@@ -55,13 +55,16 @@
         "text_hyKeJP": {
           "type": "text",
           "settings": {
-            "text": "<p>We offer DIY buckets of flowers, bouquets and more for the wedding party, or a mix of both. Whatever you go for, they will help make your special day sensational and you even more stun👏ning👏 than you already are, you gorgeous thing you<\/p>"
+            "text": "<p>During our season, we grow a selection of blooms that will make your special day <em>extra<\/em> special. We can supply curated <strong>DIY buckets of flowers<\/strong> and foliage that complement your theme. <\/p><p>Do you feel you need a little help with the flowers? We can also supply <strong>bouquets and buttonholes<\/strong> for the wedding party. This is perfect if you don’t have the time to arrange the showstopper flowers for the ceremony yourself.  <\/p><p>Whatever you go for, they will help make your special day sensational. They'll also make you even more <em>stun👏ning👏 <\/em>than you already are, you gorgeous thing you.<\/p><h2><\/h2>"
           }
         }
       },
       "block_order": [
         "heading_7rHtmB",
         "text_hyKeJP"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -78,9 +81,9 @@
         "column_EaaUAi": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/66C59193-4333-4485-99FB-7CD71CF75F75_1_201_a.jpg",
+            "image": "shopify:\/\/shop_images\/website-wedding-2.jpg",
             "title": "Buckets of blooms",
-            "text": "<p>Getting buckets of flowers and doing your own wedding decorations can be a really lovely way of having personal and meaningful decorations, while saving you money at the same time. <\/p><p>When you order our buckets, you will be getting a curated selection of the best flowers and foliage that works well together.<\/p>",
+            "text": "<p>Buckets of blooms come with a glorious selection of flowers and foliage, selected at its peak. Flowers and foliage will come in proportions suitable for making beautiful displays. <\/p><p>We can cut to your general colour theme, but we can't guarantee exact varieties or colours. This is because the flowers change daily through the season. What we can guarantee is that they will be wild and wonderful, and make your heart sing.<\/p><p>Buckets come with around 40-50 stems. Here are a few examples of what you can make with one bucket.<\/p><ul><li>4 jam jar posies<\/li><li>2 medium vases<\/li><li>1 centrepiece<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -90,7 +93,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_20231016_121927.jpg",
             "title": "Bouquets and Buttonholes",
-            "text": "<p>To make things a bit easier for you, we are very happy to make bouquets for the wedding party. We don't want to make too many assumptions about what form your special day will take, so we tried to make things simple. Just pick however many of each size bouquet works for you.<\/p><ul><li>Bride, groom, and wedding party? How about 1 showstopper and 3 medium bouquets, and 4 button holes<\/li><li>Are both of you in gowns? Why not go for 2 showstoppers? You know you want to<\/li><li>Both in suits? Buttonholes all around<\/li><\/ul><p>However you do you, let us know and we'd love to make it work for you.<\/p>",
+            "text": "<p>Our bouquets and buttonholes service might be just the thing if you need help with flowers for the wedding party.  We'll make sure you have perfect wedding party flowers, with no fuss. <\/p><p>We don't want to make too many assumptions about who is marrying whom, so we tried to make things simple. We can do three sizes of bouquet and buttonholes. All you need to do is pick how many of each you need.<\/p><ul><li>Is it a “gowns all around” kind of day? Why not go for 2 showstoppers? You know you want to<\/li><li>Does everyone feel best rocking a suit? Make them extra dapper with buttonholes<\/li><li>Bride, groom, and wedding party? One showstopper, 3 supporting bouquets, 3 posies, and 4 buttonholes might be what you’re after<\/li><\/ul><p>However you do you, let us know and we'd love to make it work for you.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -117,20 +120,58 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_bLhCXB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_kfDBQN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our style",
+            "heading_size": "h1"
+          }
+        },
+        "text_VxtdGd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nature inspires our relaxed designs. Focal flowers are the stars, but we use texture and scent to make your bouquet a multi-sensory delight. Imagine a sunny wildflower meadow or overflowing cottage garden. That is the feeling we go for in our designs.<\/p><p>All our flowers are locally grown with nature in mind. We grow without nasty chemicals and encourage wildlife wherever possible. We make sure your flowers are kind on the environment while still making a big impact on your special day.<\/p><p>As a gay owned and operated business, it is very important to us that we serve the whole LGBTQ+ community as best we can. We know that queer folk can have extra levels of stress when looking for inclusive suppliers. We are here to provide flowers for queer joy whatever form that takes. <\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kfDBQN",
+        "text_VxtdGd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/website-wedding-3_b7b1c99a-7eb1-4737-afb6-64d291686f5a.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_kBVqhq": {
       "type": "rich-text",
       "blocks": {
         "heading_NrEtwK": {
           "type": "heading",
           "settings": {
-            "heading": "How it works",
+            "heading": "How to get all flowered up",
             "heading_size": "h1"
           }
         },
         "text_4aBUgV": {
           "type": "text",
           "settings": {
-            "text": "<p>To book us for your big day, the first step is to fill in the enquiry form below. Once we receive your enquiry,  we will let you know if we have availability on your dates and go from there.<\/p><p>We are currently taking bookings for 2024 and 2025. <\/p>"
+            "text": "<ol><li>Fill in the enquiry form below. If you are not sure exactly what you’ll need, give it your best guess and we can refine later.<\/li><li>Once we have received your enquiry, we’ll get in touch and let you know if we have availability for your dates. If we have availability, we will then go over specifics and write  up a proposal for you.<\/li><li>If you are happy to book, we’ll need a booking fee to save the date.<\/li><li>A few weeks before the event, we get in touch to finalise any details like delivery or pickup<\/li><li>Have a glorious ceremony surrounded by gorgeous flowers!<\/li><\/ol><p>Prices quoted are for 2024. If you are looking for a 2025 booking, we can let you know updated pricing. <\/p>"
           }
         }
       },
@@ -162,7 +203,7 @@
           "type": "floral_element",
           "settings": {
             "heading": "Showstopper bouquets",
-            "description": "For whoever wants the biggest, most luxurious bouquet of the day. Probably the bouquet for the bride, but we think anyone can be a showstopper if they want to!",
+            "description": "For whoever wants the biggest, most luxurious bouquet of the day. Possibly the bouquet for the bride, but we think anyone can be a showstopper if they want to!",
             "price-per": 95
           }
         },
@@ -170,8 +211,16 @@
           "type": "floral_element",
           "settings": {
             "heading": "Supporting bouquets",
-            "description": "Smaller than the showstopper, but still stunning.",
+            "description": "Smaller than the showstopper, but still stunning. Perfect for the I Do crew",
             "price-per": 55
+          }
+        },
+        "floral_element_rTjG7Q": {
+          "type": "floral_element",
+          "settings": {
+            "heading": "Posey",
+            "description": "For any smaller flower people that might be part of the ceremony",
+            "price-per": 30
           }
         },
         "floral_element_NighaU": {
@@ -187,6 +236,7 @@
         "floral_element_RLtAfb",
         "floral_element_jH3akp",
         "floral_element_q8wFYB",
+        "floral_element_rTjG7Q",
         "floral_element_NighaU"
       ],
       "settings": {
@@ -203,6 +253,7 @@
     "main",
     "rich_text_9UFCyp",
     "multicolumn_NekTM6",
+    "image_with_text_bLhCXB",
     "rich_text_kBVqhq",
     "form"
   ]
