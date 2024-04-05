@@ -71,8 +71,8 @@
         "content_alignment": "left",
         "color_scheme": "",
         "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 40
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "multicolumn_NekTM6": {
@@ -119,8 +119,8 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "image_with_text_bLhCXB": {
@@ -157,8 +157,8 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 4
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "rich_text_kBVqhq": {
@@ -187,8 +187,8 @@
         "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 40
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "form": {
@@ -246,7 +246,7 @@
         "heading": "Enquire",
         "heading_size": "h1",
         "color_scheme": "scheme-1",
-        "padding_top": 36,
+        "padding_top": 24,
         "padding_bottom": 36
       }
     }
