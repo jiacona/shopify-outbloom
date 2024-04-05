@@ -85,8 +85,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_20220826_125119.jpg",
-            "title": "Weddings",
-            "text": "<p>Are you looking for flowers for your wedding? Do you love a more relaxed, wild style? We would love to help you! <\/p><p>We can offer buckets of flowers for the more thrifty DIY-ers out there, as well as bouquets and boutonnières for the wedding party.<\/p>",
+            "title": "Weddings & Celebrations",
+            "text": "<p>Are you looking for flowers for your wedding or celebration? Do you love a more relaxed, wild style? We would love to help you! <\/p><p>We can offer buckets of flowers for the more thrifty DIY-ers out there, as well as bouquets and boutonnières.<\/p>",
             "link_label": "Book a wedding",
             "link": "shopify:\/\/pages\/weddings-and-ceremonies"
           }
