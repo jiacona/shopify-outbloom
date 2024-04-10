@@ -57,7 +57,7 @@
           "type": "column",
           "settings": {
             "title": "Second Saturday",
-            "text": "<p>We'll have a stall at the <a href=\"https:\/\/www.facebook.com\/lampetermarket\" target=\"_blank\" title=\"Marchnad Llambed - Lampeter Market\">Marchnad Llambed - Lampeter Market<\/a> from <strong>10:00 - 13:00<\/strong><\/p><ul><li>April 13th<\/li><li>May 11th<\/li><li>June 8th<\/li><li>July 13th<\/li><li>August 10th<\/li><li>September 14th<\/li><\/ul>",
+            "text": "<p>We'll have a stall at the <a href=\"\/pages\/event\/marchnad-llambed-lampeter-market\" title=\"Marchnad Llambed - Lampeter Market\">Marchnad Llambed - Lampeter Market<\/a> from <strong>10:00 - 13:00<\/strong><\/p><ul><li>April 13th<\/li><li>May 11th<\/li><li>June 8th<\/li><li>July 13th<\/li><li>August 10th<\/li><li>September 14th<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -66,7 +66,7 @@
           "type": "column",
           "settings": {
             "title": "Third Saturday",
-            "text": "<p>We'll be at the <a href=\"https:\/\/maps.app.goo.gl\/L1umt4n2x4K669k48\" target=\"_blank\" title=\"Map to Aberaeron Yacht Club\">Aberaeron Yacht Club<\/a> for the new Harbour View farmers market from <strong>10:00 - 14:30<\/strong><\/p><ul><li>April 20th<\/li><li>May 18th<\/li><li>June 21st<\/li><li>July 20th<\/li><li>August 17th<\/li><li>September 21st<\/li><\/ul>",
+            "text": "<p>We'll be at the Aberaeron Yacht Club for the new <a href=\"\/pages\/event\/aberaeron-harbour-view-market\" title=\"Aberaeron Harbour View Market\">Harbour View Farmers Market<\/a> from <strong>10:00 - 14:30<\/strong><\/p><ul><li>April 20th<\/li><li>May 18th<\/li><li>June 21st<\/li><li>July 20th<\/li><li>August 17th<\/li><li>September 21st<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -75,7 +75,7 @@
           "type": "column",
           "settings": {
             "title": "Fourth Saturday",
-            "text": "<p>We're out front at <a href=\"https:\/\/www.watsonandpratts.co.uk\/\" title=\"Watson & Pratt's\">Watson & Pratt's Lampeter<\/a> from <strong>9:30 - 13:00<\/strong><\/p><ul><li>April 27th<\/li><li>May 24th<\/li><li>June 28th<\/li><li>July 27th<\/li><li>August 24th<\/li><li>September 28th<\/li><\/ul>",
+            "text": "<p>We're out front at <a href=\"\/pages\/event\/watson-pratts-lampeter\" title=\"Watson & Pratt’s Lampeter\">Watson & Pratt's Lampeter<\/a> from <strong>9:30 - 13:00<\/strong><\/p><ul><li>April 27th<\/li><li>May 24th<\/li><li>June 28th<\/li><li>July 27th<\/li><li>August 24th<\/li><li>September 28th<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
