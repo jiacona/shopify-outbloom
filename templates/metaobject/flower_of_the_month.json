@@ -19,7 +19,7 @@
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "show_text_below": true
@@ -83,8 +83,8 @@
       ],
       "settings": {
         "image": "{{ metaobject.secondary_photo.value }}",
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "height": "small",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
