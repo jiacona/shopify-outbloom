@@ -1,7 +1,55 @@
 {
   "sections": {
+    "image_banner_GARcAU": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_jywNBj": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ metaobject.title.value }}",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jywNBj"
+      ],
+      "settings": {
+        "image": "{{ metaobject.photo.value }}",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_VtLhBn": {
+      "type": "rich-text",
+      "blocks": {
+        "text_kX4DGh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ metaobject.text | metafield_tag }}<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_kX4DGh"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
   },
   "order": [
-
+    "image_banner_GARcAU",
+    "rich_text_VtLhBn"
   ]
 }
