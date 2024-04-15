@@ -48,7 +48,7 @@
           "type": "column",
           "settings": {
             "title": "First Saturday",
-            "text": "<p>Come along for one of our <a href=\"https:\/\/outbloom.co.uk\/collections\/farm-workshops\" title=\"Field to vase morning\">field to vase mornings<\/a> at the farm from <strong>10:30 - 12:30<\/strong><\/p><ul><li>April 6th<\/li><li>May 4th<\/li><li>June 1st<\/li><li>July 6th<\/li><li>August 3rd<\/li><li>September 7th<\/li><\/ul>",
+            "text": "<p>Come along for one of our <a href=\"https:\/\/outbloom.co.uk\/collections\/farm-workshops\" title=\"Field to vase morning\">field to vase mornings<\/a> at the farm from <strong>10:30 - 12:30<\/strong><\/p><ul><li>May 4th<\/li><li>June 1st<\/li><li>July 6th<\/li><li>August 3rd<\/li><li>September 7th<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -57,7 +57,7 @@
           "type": "column",
           "settings": {
             "title": "Second Saturday",
-            "text": "<p>We'll have a stall at the <a href=\"\/pages\/event\/marchnad-llambed-lampeter-market\" title=\"Marchnad Llambed - Lampeter Market\">Marchnad Llambed - Lampeter Market<\/a> from <strong>10:00 - 13:00<\/strong><\/p><ul><li>April 13th<\/li><li>May 11th<\/li><li>June 8th<\/li><li>July 13th<\/li><li>August 10th<\/li><li>September 14th<\/li><\/ul>",
+            "text": "<p>We'll have a stall at the <a href=\"\/pages\/event\/marchnad-llambed-lampeter-market\" title=\"Marchnad Llambed - Lampeter Market\">Marchnad Llambed - Lampeter Market<\/a> from <strong>10:00 - 13:00<\/strong><\/p><ul><li>May 11th<\/li><li>June 8th<\/li><li>July 13th<\/li><li>August 10th<\/li><li>September 14th<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -166,7 +166,7 @@
         "text_YMeFPP": {
           "type": "text",
           "settings": {
-            "text": "<p>During our fresh season you can find our bouquets in these classy establishments.<\/p><p><strong>New Medical Hall<br\/><\/strong><a href=\"https:\/\/maps.app.goo.gl\/oyG4enG9Z3j7ojL8A\" title=\"Map to New Medical Hall\">Station Road, Tregaron, Ceredigion, SY25 6HU<\/a><\/p>"
+            "text": "<p>During our fresh season you can find our bouquets in these classy establishments. We bring in new flowers on Fridays<\/p><p><strong>New Medical Hall<br\/><\/strong><a href=\"https:\/\/maps.app.goo.gl\/oyG4enG9Z3j7ojL8A\" title=\"Map to New Medical Hall\">Station Road, Tregaron, Ceredigion, SY25 6HU<\/a><\/p>"
           }
         }
       },
