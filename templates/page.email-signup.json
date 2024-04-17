@@ -2,13 +2,49 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "newsletter_JniWEX": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_BgeHrB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get our blooming emails!",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_iPBrgj": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Join the \"bloomers\" club email list. We send emails out every month-ish. In them we profile our favourite flower that is in bloom, along with news from the farm and any special we've got on for bloomers.<\/p><p>Want to win a wonderful day out at a <a href=\"\/collections\/farm-workshops\" title=\"Farm workshops\">farm workshop<\/a>? If you sign up before the 27th of May, you'll automatically be entered in a drawing to win a free space at a workshop of your choice!<\/p><p>Just pop your email address in the box and we'll get you signed up.<\/p>"
+          }
+        },
+        "email_form_tKrT9Q": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_BgeHrB",
+        "paragraph_iPBrgj",
+        "email_form_tKrT9Q"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "newsletter_JniWEX"
   ]
 }
