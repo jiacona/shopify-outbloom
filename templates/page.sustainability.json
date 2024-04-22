@@ -39,7 +39,7 @@
         "text_NCtBjC": {
           "type": "text",
           "settings": {
-            "text": "<p>Sustainability is a core part of how and why we grow flowers. We want to grow exceptional flowers.  But we also want to make sure our farm is an integral and positive part of its environment. We focus on three things that if we get right can be a huge improvement over flowers you might get elsewhere.<\/p>"
+            "text": "<p>Sustainability is a core part of how and why we grow flowers. We want to grow exceptional flowers.  But we also want to make sure our farm is an integral and positive part of its environment. We focus on three things - that if we get right - can be a huge improvement over flowers you might get elsewhere.<\/p>"
           }
         }
       },
@@ -145,6 +145,28 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_AtNJyK": {
+      "type": "rich-text",
+      "blocks": {
+        "text_RAfRNf": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>References and resources<\/strong><\/p><ul><li><a href=\"https:\/\/howbadarebananas.com\/\" target=\"_blank\" title=\"How bad are bananas? - Book by Mike Berners-Lee\">How bad are bananas?<\/a> - Book by Mike Berners-Lee<\/li><li><a href=\"https:\/\/www.sustainablefloristry.org\/the-issues\/the-problem\" target=\"_blank\" title=\"Sustainable floristry network - problems in floristry\">Sustainable floristry network<\/a> - Information on plastic waste in floristry<\/li><li><a href=\"https:\/\/regenerativeflowerfarmersnetwork.org\/\" target=\"_blank\" title=\"Regenerative flower farmers network\">Regenerative flower farmers network<\/a><\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "text_RAfRNf"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -152,6 +174,7 @@
     "image_banner_gH8q9V",
     "rich_text_tLyzmb",
     "multicolumn_zW7AGG",
-    "image_with_text_HKLem9"
+    "image_with_text_HKLem9",
+    "rich_text_AtNJyK"
   ]
 }
