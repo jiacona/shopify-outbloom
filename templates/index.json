@@ -127,6 +127,53 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_4T36pp": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_9g9jQy": {
+          "type": "heading",
+          "settings": {
+            "heading": "A farm full of life",
+            "heading_size": "h1"
+          }
+        },
+        "text_HNiDNQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sustainability is a core part of how and why we grow flowers. We want to grow exceptional flowers. But we also want to make sure our farm is an integral and positive part of its environment that plays its part in tackling the climate crisis.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_mXwnbG": {
+          "type": "button",
+          "settings": {
+            "button_label": "How we approach sustainability",
+            "button_link": "shopify:\/\/pages\/a-farm-full-of-life",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_9g9jQy",
+        "text_HNiDNQ",
+        "button_mXwnbG"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Flower_beds_smaller.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_4eVbxA": {
       "type": "rich-text",
       "blocks": {
@@ -519,6 +566,7 @@
     "image_banner",
     "rich_text",
     "multicolumn",
+    "image_with_text_4T36pp",
     "rich_text_4eVbxA",
     "newsletter_erkEKh",
     "slideshow_DFBdcA",
