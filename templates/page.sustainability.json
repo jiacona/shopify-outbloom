@@ -39,12 +39,72 @@
         "text_NCtBjC": {
           "type": "text",
           "settings": {
-            "text": "<p>Sustainability is a core part of how and why we grow flowers. We want to grow exceptional flowers.  But we also want to make sure our farm is an integral and positive part of its environment. We focus on three things - that if we get right - can be a huge improvement over flowers you might get elsewhere.<\/p>"
+            "text": "<p>Sustainability is a core part of how and why we grow flowers. We want to grow exceptional flowers.  But we also want to make sure our farm is an integral and positive part of its environment. <\/p>"
           }
         }
       },
       "block_order": [
         "text_NCtBjC"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "image_with_text_HKLem9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gWmERt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why did we get into it in the first place?",
+            "heading_size": "h1"
+          }
+        },
+        "text_PDP77V": {
+          "type": "text",
+          "settings": {
+            "text": "<p>One big push into growing flowers came from the wonderful Dr Ayana Elizabeth Johnson. She has a <a href=\"https:\/\/www.ayanaelizabeth.com\/climatevenn\" target=\"_blank\">method for answering this question.<\/a> How can you – <em>specifically you<\/em> – help with climate solutions?<\/p><p>To answer that question, she encourages us all to find the climate action at the intersection of what:<\/p><ul><li>you are good at<\/li><li>needs doing<\/li><li>brings you joy<\/li><\/ul><p>For us, that is growing local, seasonal flowers.<\/p><p>We like to think we're pretty good at growing flowers. We know the world needs to stop ignoring carbon cost of the things we buy. And growing flowers brings us <strong>So. Much. Joy.<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gWmERt",
+        "text_PDP77V"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC03837.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "rich_text_C9MBAQ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_eLRMiA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We focus on <strong>three things<\/strong> - that if we get right - can be a huge improvement over flowers you might get elsewhere.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_eLRMiA"
       ],
       "settings": {
         "desktop_content_position": "left",
@@ -63,7 +123,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Dahlia.jpg",
             "caption": "",
-            "heading": "Carbon",
+            "heading": "1. Carbon",
             "text": "<p>Flowers can cary a surprisingly high carbon cost. Seasonality plays a big part in this. In his fascinating book \"How bad are Bananas?\" Mike Berners-Lee investigates the carbon cost of supermarket flowers. He found that out-of-season cut flowers were some of the highest carbon cost things you can buy. <\/p><p>Out of season flowers are either imported from somewhere warm, or grown with added heat and light. If they are grown somewhere warm (in Europe, flowers often come from Kenya) they come in by airplane. If they are grown in Europe, they have to be grown indoors with artificial heat and light. <\/p><h2><strong>What we do differently<\/strong><\/h2><p>Our flowers are all <strong>grown in their season<\/strong>. We do grow in a polytunnel to extend the season a bit, but never use added heat or light. This means our flowers get to you at a <strong>tiny fraction of the carbon cost<\/strong> of supermarket blooms. <\/p><p>We also use solar on the farm and deliver in an electric van (often powered by our own solar). This reduces the carbon cost even further.<\/p>",
             "button_label": "",
             "button_link": ""
@@ -74,7 +134,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Boquets_in_paper.jpg",
             "caption": "",
-            "heading": "Plastic waste",
+            "heading": "2. Plastic waste",
             "text": "<p>Flowers often go through several rounds of single-use plastic before getting to you. If they then go into floral foam, a single arrangement can produce a huge amount of plastic waste. It's not uncommon for the amount of packaging around the flowers far exceed the actual flowers. <\/p><h2><strong>What we do differently<\/strong><\/h2><p>We only use easily <strong>compostable wrapping<\/strong> and never use floral foam in any of our floristry. <\/p><p>We do still use plastics as part of the growing process, but do our best to re-use it for as long as possible. Anything past the end of its useful life is recycled if possible and only goes to landfill at last resort. <\/p>",
             "button_label": "",
             "button_link": ""
@@ -85,7 +145,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Bee_on_catmint.jpg",
             "caption": "",
-            "heading": "Intensive farming",
+            "heading": "3. Intensive farming",
             "text": "<p>Many commercial flower farms grow intensively and rely on chemical pesticides, herbicides, and fertilisers to operate. They are devoid of much soil, insect, and any other type of life. Many are in parts of the world with lower health and safety standards. This means workers are often exposed to harmful chemicals and working conditions as well. <\/p><h2><strong>What we do differently<\/strong><\/h2><p>We prefer to use regenerative farming practices. We try to build up an <strong>ecosystem of life<\/strong> that our flowers fit into. We start by building healthy soil that is full of life. This is the foundation for everything else. We add lots of compost and grow cover crops to build fertility. We minimising tilling and digging to allow the soil ecosystem to remain intact. We encourage beneficial insects and predators by providing lots of verges and habitat.<\/p><p>The growing site itself sits in a larger plot that we are managing to be a welcoming place for wildlife to live. We are planting native woodland and are aiming for a mosaic of woodland and species rich meadows.  We'd love to be a positive example of a productive farm that is also home to all sorts of other life. <\/p>",
             "button_label": "",
             "button_link": ""
@@ -110,7 +170,7 @@
         "row_color_scheme": "scheme-2",
         "mobile_content_alignment": "left",
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 24
       }
     },
     "multicolumn_zW7AGG": {
@@ -167,44 +227,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_HKLem9": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_gWmERt": {
-          "type": "heading",
-          "settings": {
-            "heading": "Why did we get into it in the first place?",
-            "heading_size": "h1"
-          }
-        },
-        "text_PDP77V": {
-          "type": "text",
-          "settings": {
-            "text": "<p>One of our big pushes to get into growing flowers came from the wonderful Dr Ayana Elizabeth Johnson. She has a <a href=\"https:\/\/www.ayanaelizabeth.com\/climatevenn\" target=\"_blank\">method for answering this question.<\/a> How can you – <em>specifically you<\/em> – help with climate solutions?<\/p><p>To answer that question, she encourages us all to find the climate action at the intersection of what:<\/p><ul><li>you are good at<\/li><li>needs doing<\/li><li>brings you joy<\/li><\/ul><p>For us, that is growing local, seasonal flowers.<\/p><p>We like to think we're pretty good at growing flowers. We know the world needs to stop ignoring carbon cost of the things we buy. And growing flowers brings us <strong>So. Much. Joy.<\/strong><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_gWmERt",
-        "text_PDP77V"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/DSC03837.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "section_color_scheme": "",
-        "color_scheme": "scheme-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "rich_text_AtNJyK": {
       "type": "rich-text",
       "blocks": {
@@ -232,9 +254,10 @@
     "main",
     "image_banner_gH8q9V",
     "rich_text_tLyzmb",
+    "image_with_text_HKLem9",
+    "rich_text_C9MBAQ",
     "multirow_EJNF3V",
     "multicolumn_zW7AGG",
-    "image_with_text_HKLem9",
     "rich_text_AtNJyK"
   ]
 }
