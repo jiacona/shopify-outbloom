@@ -2,13 +2,117 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "image_banner_gH8q9V": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_3LiYkd": {
+          "type": "heading",
+          "settings": {
+            "heading": "A farm full of life",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3LiYkd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Polytunnel_in_May.jpg",
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_tLyzmb": {
+      "type": "rich-text",
+      "blocks": {
+        "text_NCtBjC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sustainability is a core part of how and why we grow flowers. We want to grow exceptional flowers.  But we also want to make sure our farm is an integral and positive part of its environment. We focus on three things that if we get right can be a huge improvement over flowers you might get elsewhere.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_NCtBjC"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_zW7AGG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_QLnNBy": {
+          "type": "column",
+          "settings": {
+            "title": "Carbon cost",
+            "text": "<p>Flowers can cary a surprisingly high carbon cost. Seasonality plays a big part in this. In his fascinating book \"How bad are Bananas?\" Mike Berners-Lee investigates the carbon cost of supermarket flowers. He found that out-of-season cut flowers were some of the highest carbon cost things you can buy. <\/p><p>Out of season flowers are either imported from somewhere warm, or grown with added heat and light. If they are grown somewhere warm (in Europe, flowers often come from Kenya) they come in by airplane. If they are grown in Europe, they have to be grown indoors with artificial heat and light. <\/p><p><strong>What we do differently<\/strong><\/p><p>Our flowers are all grown in their season. We do grow in a polytunnel to extend the season a bit, but never use added heat or light. This means our flowers get to you at a tiny fraction of the carbon cost of supermarket blooms. We also use solar on the farm and deliver in an electric van (often powered by our own solar). This reduces the carbon cost even further.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TTRXaq": {
+          "type": "column",
+          "settings": {
+            "title": "Plastic waste",
+            "text": "<h3><\/h3><p>Flowers often go through several rounds of single-use plastic before getting to you. If they then go into floral foam, a single arrangement can produce a huge amount of plastic waste. It's not uncommon for the amount of packaging around the flowers far exceed the actual flowers. <\/p><p><strong>What we do differently<\/strong><\/p><p>We only use easily compostable wrapping and never use floral foam in any of our floristry. <\/p><p>One place we do use plastic is in the growing process. <\/p><p>We do still use plastics as part of the growing process, but do our best to re-use it for as long as possible. Anything past the end of its useful life is recycled if possible and only goes to landfill at last resort. <\/p><h3><\/h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RdJPkY": {
+          "type": "column",
+          "settings": {
+            "title": "Intensive farming practices",
+            "text": "<p>Many commercial flower farms rely on chemical pesticides, herbicides, and fertilisers to operate. They are devoid of much soil, insect, and any other type of life. Many are in parts of the world with lower health and safety standards. So workers are often exposed to harmful chemicals and working conditions as well. <\/p><p><strong>What we do differently<\/strong><\/p><p>We prefer to use regenerative farming practices. We try to build up an ecosystem of life that our flowers fit into. We start by building healthy soil that is full of life. This is the foundation for everything else. We add lots of compost and grow cover crops to build fertility. We minimising tilling and digging to allow the soil ecosystem to remain intact. We encourage beneficial insects and predators by providing lots of verges and habitat.<\/p><p>The growing site itself sits in a larger plot that we are managing to be a nice place for wildlife to live. We are planting native woodland and are aiming for a mosaic of woodland and species rich meadows.  We'd love for our farm to be a positive example of a productive farm that is also home to all sorts of other life. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_QLnNBy",
+        "column_TTRXaq",
+        "column_RdJPkY"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_banner_gH8q9V",
+    "rich_text_tLyzmb",
+    "multicolumn_zW7AGG"
   ]
 }
