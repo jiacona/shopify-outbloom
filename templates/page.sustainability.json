@@ -50,7 +50,7 @@
         "desktop_content_position": "left",
         "content_alignment": "left",
         "color_scheme": "",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 0,
         "padding_bottom": 52
       }
@@ -107,12 +107,51 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_HKLem9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gWmERt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why did we get into it in the first place?",
+            "heading_size": "h1"
+          }
+        },
+        "text_PDP77V": {
+          "type": "text",
+          "settings": {
+            "text": "<p>One of our big pushes to get into growing flowers came from the wonderful Dr Ayana Elizabeth Johnson. She has a <a href=\"https:\/\/www.ayanaelizabeth.com\/climatevenn\" target=\"_blank\">method for answering this question.<\/a> How can you – <em>specifically you<\/em> – help with climate solutions?<\/p><p>To answer that question, she encourages us all to find the climate action at the intersection of what:<\/p><ul><li>you are good at<\/li><li>needs doing<\/li><li>brings you joy<\/li><\/ul><p>For us, that is growing local, seasonal flowers.<\/p><p>We like to think we're pretty good at growing flowers. We know the world needs to stop ignoring carbon cost of the things we buy. And growing flowers brings us <em>So. Much. Joy.<\/em><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gWmERt",
+        "text_PDP77V"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC03837.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "image_banner_gH8q9V",
     "rich_text_tLyzmb",
-    "multicolumn_zW7AGG"
+    "multicolumn_zW7AGG",
+    "image_with_text_HKLem9"
   ]
 }
