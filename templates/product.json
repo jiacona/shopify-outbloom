@@ -38,7 +38,7 @@
         "inventory_iXDybi": {
           "type": "inventory",
           "settings": {
-            "text_style": "uppercase",
+            "text_style": "body",
             "inventory_threshold": 0,
             "show_inventory_quantity": true
           }
