@@ -100,8 +100,8 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
+        "padding_top": 40,
+        "padding_bottom": 0
       }
     },
     "rich_text_LCjCaD": {
@@ -117,7 +117,7 @@
         "text_ihWPeG": {
           "type": "text",
           "settings": {
-            "text": "<p>In addition to our regular markets and events, we are sometimes at special events and pop-ups. Coming up we have:<\/p><ul><li><strong>May 26th - May 27th, 10:00 - 17:00 - <\/strong><a href=\"https:\/\/outbloom.co.uk\/pages\/event\/aberaeron-garden-festival\" title=\"Aberaeron Garden Festival\">Aberaeron Garden Festival<\/a><\/li><li><strong>July 27th, 10:00 - 14:00 - <\/strong><a href=\"\/pages\/event\/gwyl-fwyd-llanbed-lampeter-food-fest\" title=\"Gŵyl Fwyd Llanbed : Lampeter Food Fest\">Gŵyl Fwyd Llanbed : Lampeter Food Fest<\/a><\/li><\/ul><p>If you want to keep up to date with our special events, why not sign up for our newsletter? Just pop your email in below and we'll send you a periodic email with farm news and goings on.<\/p>"
+            "text": "<p>In addition to our regular markets and events, we are sometimes at special events and pop-ups. Coming up we have:<\/p><ul><li><strong>July 27th, 10:00 - 14:00 - <\/strong><a href=\"\/pages\/event\/gwyl-fwyd-llanbed-lampeter-food-fest\" title=\"Gŵyl Fwyd Llanbed : Lampeter Food Fest\">Gŵyl Fwyd Llanbed : Lampeter Food Fest<\/a><\/li><\/ul><p>If you want to keep up to date with our special events, why not sign up for our newsletter? Just pop your email in below and we'll send you a periodic email with farm news and goings on.<\/p>"
           }
         }
       },
