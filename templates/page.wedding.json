@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner_pWw7P6": {
@@ -81,7 +90,7 @@
         "column_EaaUAi": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/website-wedding-2.jpg",
+            "image": "shopify:\/\/shop_images\/bucket-of-flowers-website.jpg",
             "title": "Buckets of blooms",
             "text": "<p>Buckets of blooms come with a glorious selection of flowers and foliage, selected at its peak. Flowers and foliage will come in proportions suitable for making beautiful displays. <\/p><p>We can cut to your general colour theme, but we can't guarantee exact varieties or colours. This is because the flowers change daily through the season. What we can guarantee is that they will be wild and wonderful, and make your heart sing.<\/p><p>Buckets come with around 60-70 stems. Here are a few examples of what you can make with one bucket.<\/p><ul><li>6 jam jar posies or<\/li><li>3 medium vases or<\/li><li>1 large centrepiece<\/li><\/ul>",
             "link_label": "",
@@ -91,7 +100,7 @@
         "column_X4LXDN": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20231016_121927.jpg",
+            "image": "shopify:\/\/shop_images\/Wedding_bouquet.jpg",
             "title": "Bouquets and Buttonholes",
             "text": "<p>Our bouquets and buttonholes service might be just the thing if you need help with flowers for the wedding party.  <\/p><p>We don't want to make too many assumptions about who is marrying whom, so we tried to make things simple. We can do three sizes of bouquet and buttonholes. All you need to do is pick how many of each you need.<\/p><ul><li>Is it a “gowns all around” kind of day? Why not go for 2 showstoppers? You know you want to<\/li><li>Does everyone feel best rocking a suit? Make them extra dapper with buttonholes<\/li><li>Bride, groom, and wedding party? One showstopper, 3 supporting bouquets, 3 posies, and 4 buttonholes might be what you’re after<\/li><\/ul><p>However you do you, let us know and we'd love to make it work for you.<\/p>",
             "link_label": "",
