@@ -21,7 +21,7 @@
       var totalPrice = 0;
       for (const fb of formBlocks) {
         const unitPrice = Number(fb.querySelector('[data-unit-price]').dataset.unitPrice);
-        const quantity = Number(fb.querySelector('input[name="quantity"]').valueAsNumber);
+        const quantity = Number(fb.querySelector('input[type="number"]').valueAsNumber);
 
         totalPrice = totalPrice + unitPrice * quantity;
       }
@@ -175,7 +175,7 @@
                 <input
                   class="quantity__input"
                   type="number"
-                  name="quantity"
+                  name="contact[{{ block.settings['heading'] }}]"
                   id="Wedding-{{ block.id }}"
                   min="0"
                   step="1"
