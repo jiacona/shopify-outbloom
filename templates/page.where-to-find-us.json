@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -117,7 +126,7 @@
         "text_ihWPeG": {
           "type": "text",
           "settings": {
-            "text": "<p>In addition to our regular markets and events, we are sometimes at special events and pop-ups. Coming up we have:<\/p><ul><li><strong>July 27th, 10:00 - 14:00 - <\/strong><a href=\"\/pages\/event\/gwyl-fwyd-llanbed-lampeter-food-fest\" title=\"Gŵyl Fwyd Llanbed : Lampeter Food Fest\">Gŵyl Fwyd Llanbed : Lampeter Food Fest<\/a><\/li><\/ul><p>If you want to keep up to date with our special events, why not sign up for our newsletter? Just pop your email in below and we'll send you a periodic email with farm news and goings on.<\/p>"
+            "text": "<p>In addition to our regular markets and events, we are sometimes at special events and pop-ups. We don't have anything in the schedule at the moment.<\/p><p>If you want to keep up to date with our special events, why not sign up for our newsletter? Just pop your email in below and we'll send you a periodic email with farm news and goings on.<\/p>"
           }
         }
       },
