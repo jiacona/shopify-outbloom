@@ -15,7 +15,7 @@
         "heading_fKcNGd": {
           "type": "heading",
           "settings": {
-            "heading": "Farm workshops",
+            "heading": "Festive workshops",
             "heading_size": "h1"
           }
         }
@@ -24,7 +24,7 @@
         "heading_fKcNGd"
       ],
       "settings": {
-        "image": "shopify://shop_images/DSC03810_f08f27a8-16ba-4622-890b-6fc029ad454e.jpg",
+        "image": "shopify://shop_images/Christmas-table-large.jpg",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -59,7 +59,7 @@
         "text_RWK8Xy": {
           "type": "text",
           "settings": {
-            "text": "<p>We will offer a variety of other workshops through the year. Sign up for our monthly-ish newsletter to hear about them by popping your email in the box below.</p>"
+            "text": ""
           }
         },
         "button_E4Dxex": {
