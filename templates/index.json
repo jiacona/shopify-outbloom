@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -16,7 +25,7 @@
         "heading_aEzrkj"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSC03080_028eb57a-f1f5-4ed0-b7f5-67674cad3f19.jpg",
+        "image": "shopify://shop_images/DSC03080_028eb57a-f1f5-4ed0-b7f5-67674cad3f19.jpg",
         "desktop_content_position": "bottom-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -39,14 +48,14 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>We grow top quality flowers without chemicals and in a way that encourages all kinds of life on the farm. We provide flowers in an ever changing selection throughout the growing season in the Lampeter area and beyond. They are alway fresh, scented, and fabulous.<\/p>"
+            "text": "<p>We grow top quality flowers without chemicals and in a way that encourages all kinds of life on the farm. We provide flowers in an ever changing selection throughout the growing season in the Lampeter area and beyond. They are alway fresh, scented, and fabulous.</p>"
           }
         },
         "button_AfL6Ci": {
           "type": "button",
           "settings": {
             "button_label": "Buy flowers",
-            "button_link": "shopify:\/\/collections\/fresh-flowers",
+            "button_link": "shopify://collections/fresh-flowers",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -74,31 +83,31 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC03080.jpg",
+            "image": "shopify://shop_images/DSC03080.jpg",
             "title": "Bouquets",
-            "text": "<p>Whether you are looking for a stunning bouquet of flowers as a gift, or as a gift to yourself, we’ve got you covered.<\/p><p>You can order online for local deliver, sign up for our subscription flowers, or find us at a range of markets and popups around Ceredigion.<\/p>",
+            "text": "<p>Whether you are looking for a stunning bouquet of flowers as a gift, or as a gift to yourself, we’ve got you covered.</p><p>You can order online for local deliver, sign up for our subscription flowers, or find us at a range of markets and popups around Ceredigion.</p>",
             "link_label": "Order bouquets",
-            "link": "shopify:\/\/collections\/fresh-flowers"
+            "link": "shopify://collections/fresh-flowers"
           }
         },
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Wedding_bouquet.jpg",
+            "image": "shopify://shop_images/Wedding_bouquet.jpg",
             "title": "Weddings & Celebrations",
-            "text": "<p>Are you looking for flowers for your wedding or celebration? Do you love a more relaxed, wild style? We would love to help you! <\/p><p>We can offer buckets of flowers for the more thrifty DIY-ers out there, as well as bouquets and boutonnières.<\/p>",
+            "text": "<p>Are you looking for flowers for your wedding or celebration? Do you love a more relaxed, wild style? We would love to help you! </p><p>We can offer buckets of flowers for the more thrifty DIY-ers out there, as well as bouquets and boutonnières.</p>",
             "link_label": "Book a wedding",
-            "link": "shopify:\/\/pages\/weddings-and-ceremonies"
+            "link": "shopify://pages/weddings-and-ceremonies"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC03837.jpg",
-            "title": "Workshops",
-            "text": "<p>We are excited to welcome people to the farm for a selection of relaxed workshops. <\/p><p>You’ll be able to see behind the scenes of a working flower farm, pick a selection of your favourite blooms, and learn how to make your flowers look their best.<\/p>",
-            "link_label": "Explore workshops",
-            "link": "shopify:\/\/collections\/farm-workshops"
+            "image": "shopify://shop_images/DSC04430.jpg",
+            "title": "Festive season",
+            "text": "<p>Whether you are looking to get creative and make your own wreath or table display, or want to order one of our lush wreathes, we've got your festive season covered.</p>",
+            "link_label": "Get festive",
+            "link": "shopify://collections/festive-season"
           }
         }
       },
@@ -140,7 +149,7 @@
         "text_HNiDNQ": {
           "type": "text",
           "settings": {
-            "text": "<p>Sustainability is a core part of how and why we grow flowers. We want to grow exceptional flowers. But we also want to make sure our farm is an integral and positive part of its environment that plays its part in tackling the climate crisis.<\/p>",
+            "text": "<p>Sustainability is a core part of how and why we grow flowers. We want to grow exceptional flowers. But we also want to make sure our farm is an integral and positive part of its environment that plays its part in tackling the climate crisis.</p>",
             "text_style": "body"
           }
         },
@@ -148,7 +157,7 @@
           "type": "button",
           "settings": {
             "button_label": "How we approach sustainability",
-            "button_link": "shopify:\/\/pages\/a-farm-full-of-life",
+            "button_link": "shopify://pages/a-farm-full-of-life",
             "button_style_secondary": true
           }
         }
@@ -159,7 +168,7 @@
         "button_mXwnbG"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Flower_beds_smaller.jpg",
+        "image": "shopify://shop_images/Flower_beds_smaller.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -187,7 +196,7 @@
         "text_FMJ3nh": {
           "type": "text",
           "settings": {
-            "text": "<p>All our flowers are grown with the seasons. This means what is available changes over the course of the year as different flowers come and go.<\/p><p>To keep up with what's in bloom, why not sign up to our farm newsletter? We send them out every month-ish. In them we profile our favourite flower that is in bloom along with news from the farm. Our resident chicken helpers might even make an appearance!<\/p>"
+            "text": "<p>All our flowers are grown with the seasons. This means what is available changes over the course of the year as different flowers come and go.</p><p>To keep up with what's in bloom, why not sign up to our farm newsletter? We send them out every month-ish. In them we profile our favourite flower that is in bloom along with news from the farm. Our resident chicken helpers might even make an appearance!</p>"
           }
         },
         "caption_q6CcMJ": {
@@ -228,7 +237,7 @@
           "type": "paragraph",
           "disabled": true,
           "settings": {
-            "text": "<p>All our flowers are grown with the seasons. This means what is available changes over the course of the year as different flowers come and go. To get a sense of what is at its peak at what point, have a nose through our seasonal galleries.<\/p><p>Better yet, why not sign up to our farm newsletter?<\/p>"
+            "text": "<p>All our flowers are grown with the seasons. This means what is available changes over the course of the year as different flowers come and go. To get a sense of what is at its peak at what point, have a nose through our seasonal galleries.</p><p>Better yet, why not sign up to our farm newsletter?</p>"
           }
         },
         "email_form_7BWKtJ": {
@@ -258,7 +267,7 @@
         "slide_ETawrK": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC03621.jpg",
+            "image": "shopify://shop_images/DSC03621.jpg",
             "heading": "Spring",
             "heading_size": "h1",
             "subheading": "",
@@ -276,7 +285,7 @@
         "slide_GLGeXM": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC03080_028eb57a-f1f5-4ed0-b7f5-67674cad3f19.jpg",
+            "image": "shopify://shop_images/DSC03080_028eb57a-f1f5-4ed0-b7f5-67674cad3f19.jpg",
             "heading": "Summer",
             "heading_size": "h1",
             "subheading": "",
@@ -294,7 +303,7 @@
         "slide_ya4X3i": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2491EE91-2781-448E-9A62-47A109B1A138_1_201_a.jpg",
+            "image": "shopify://shop_images/2491EE91-2781-448E-9A62-47A109B1A138_1_201_a.jpg",
             "heading": "Summer",
             "heading_size": "h1",
             "subheading": "",
@@ -312,7 +321,7 @@
         "slide_aY9GAC": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20231016_121927.jpg",
+            "image": "shopify://shop_images/IMG_20231016_121927.jpg",
             "heading": "Autumn",
             "heading_size": "h1",
             "subheading": "",
@@ -330,7 +339,7 @@
         "slide_VfydWB": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20230921_102842.jpg",
+            "image": "shopify://shop_images/IMG_20230921_102842.jpg",
             "heading": "Autumn",
             "heading_size": "h0",
             "subheading": "",
@@ -370,7 +379,7 @@
         "slide_gkEGxw": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC03107.jpg",
+            "image": "shopify://shop_images/DSC03107.jpg",
             "heading": "Summer",
             "heading_size": "h1",
             "subheading": "",
@@ -388,7 +397,7 @@
         "slide_rfPxLY": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC03080.jpg",
+            "image": "shopify://shop_images/DSC03080.jpg",
             "heading": "Summer",
             "heading_size": "h1",
             "subheading": "",
@@ -406,7 +415,7 @@
         "slide_8JLhir": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20230616_174244_2169ab36-4405-4b4d-ab88-8eb501255883.jpg",
+            "image": "shopify://shop_images/IMG_20230616_174244_2169ab36-4405-4b4d-ab88-8eb501255883.jpg",
             "heading": "Summer",
             "heading_size": "h1",
             "subheading": "",
@@ -445,7 +454,7 @@
         "slide_Xq3NM3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20231016_121927.jpg",
+            "image": "shopify://shop_images/IMG_20231016_121927.jpg",
             "heading": "Autumn",
             "heading_size": "h1",
             "subheading": "",
@@ -463,7 +472,7 @@
         "slide_hqLDxk": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20231025_133704_882ca3c4-7620-49ce-9134-51745e69dc56.jpg",
+            "image": "shopify://shop_images/IMG_20231025_133704_882ca3c4-7620-49ce-9134-51745e69dc56.jpg",
             "heading": "Autumn",
             "heading_size": "h1",
             "subheading": "",
@@ -481,7 +490,7 @@
         "slide_bfnXmy": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20230921_102842_195f8759-62d5-4d86-94fd-b98801454d1d.jpg",
+            "image": "shopify://shop_images/IMG_20230921_102842_195f8759-62d5-4d86-94fd-b98801454d1d.jpg",
             "heading": "Autumn",
             "heading_size": "h1",
             "subheading": "",
@@ -527,7 +536,7 @@
         "text_FbYneA": {
           "type": "text",
           "settings": {
-            "text": "<p>We supply flowers to a range of businesses in the West Wales area. Get in touch if you are a florists who would like access to our range of high quality flowers, or a holiday home who would like to give your guests the most delightful welcome of fresh local flowers.<\/p>",
+            "text": "<p>We supply flowers to a range of businesses in the West Wales area. Get in touch if you are a florists who would like access to our range of high quality flowers, or a holiday home who would like to give your guests the most delightful welcome of fresh local flowers.</p>",
             "text_style": "body"
           }
         },
@@ -535,7 +544,7 @@
           "type": "button",
           "settings": {
             "button_label": "Find out more",
-            "button_link": "shopify:\/\/pages\/flowers-for-business",
+            "button_link": "shopify://pages/flowers-for-business",
             "button_style_secondary": true
           }
         }
@@ -546,7 +555,7 @@
         "button_3GAg76"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_20230715_090543.jpg",
+        "image": "shopify://shop_images/IMG_20230715_090543.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
