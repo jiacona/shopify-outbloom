@@ -1810,7 +1810,7 @@ details[open] > .share-button__fallback {
 }
 
 input[type="date"].field__input {
-  padding: 1.5rem;
+  padding: 3rem 1.5rem;
 }
 
 input[type="date"]:before {
