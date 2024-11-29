@@ -197,7 +197,6 @@
             type="date"
             id="Recipient-send-on-{{ section.id }}"
             name="properties[Send on]"
-            placeholder="{{ 'recipient.form.send_on' | t }}"
             value="{{ form.send_on }}"
             {% if form.errors contains 'send_on' %}
               aria-invalid="true"
