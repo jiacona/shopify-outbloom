@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -30,7 +30,7 @@
         "text_ti9RjW": {
           "type": "text",
           "settings": {
-            "text": "There are plenty of ways to get your hands on some of our gorgeous flowers",
+            "text": "We are hibernating for the winter. Sign up for our emails and follow us on social media to find out when we'll start up agian in the spring",
             "text_style": "body"
           }
         }
@@ -120,14 +120,14 @@
         "heading_fG64Ci": {
           "type": "heading",
           "settings": {
-            "heading": "Festive season events",
+            "heading": "Events",
             "heading_size": "h1"
           }
         },
         "text_ihWPeG": {
           "type": "text",
           "settings": {
-            "text": "<p>Over the festive period we will have a selection of fresh and dried wreaths, dried flowers, and gifts on our market stall.</p><p><strong>Marchnad Llambed - Lampeter Market</strong> - November 23 - 10:00-13:30<br/><strong>Marchnad Llambed - Lampeter Market</strong> - December 14 - 10:00-13:30<br/><strong>Tragaron Ffair Nadolig - Christmas Fair</strong> - December 15 - 10:00-15:00</p><p>We'l also be putting on various <a href=\"/collections/festive-season\" title=\"Festive season\">workshops</a>.</p><p></p><p>If you want to keep up to date with our special events, why not sign up for our newsletter? Just pop your email in below and we'll send you a periodic email with farm news and goings on.</p>"
+            "text": "<p>We are currently hibernating over winter and won't have any events until the flowers return in the spring. We will be putting dates in the calendar over the coming weeks though.</p><p>If you want to keep up to date with our events, why not sign up for our newsletter? Just pop your email in below and we'll send you a periodic email with farm news and goings on.</p>"
           }
         }
       },
@@ -149,8 +149,7 @@
       "blocks": {
         "email_form_RdXH6t": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
