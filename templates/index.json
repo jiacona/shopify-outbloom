@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -85,7 +85,7 @@
           "settings": {
             "image": "shopify://shop_images/DSC03080.jpg",
             "title": "Bouquets",
-            "text": "<p>Whether you are looking for a stunning bouquet of flowers as a gift, or as a gift to yourself, we’ve got you covered.</p><p>You can order online for local deliver, sign up for our subscription flowers, or find us at a range of markets and popups around Ceredigion.</p>",
+            "text": "<p>Whether you are looking for a stunning bouquet of flowers as a gift, or as a gift to yourself, we’ve got you covered.</p><p>You can order online for local delivery, sign up for our subscription flowers, or find us at a range of markets and popups around Ceredigion.</p>",
             "link_label": "Order bouquets",
             "link": "shopify://collections/fresh-flowers"
           }
@@ -103,11 +103,11 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC04430.jpg",
-            "title": "Festive season",
-            "text": "<p>Whether you are looking to get creative and make your own wreath or table display, or want to order one of our lush wreathes, we've got your festive season covered.</p>",
-            "link_label": "Get festive",
-            "link": "shopify://collections/festive-season"
+            "image": "shopify://shop_images/flower-wheelbarrow-email-size.jpg",
+            "title": "Farm workshops",
+            "text": "<p>Come visit our farm for a flower-filled morning out. From April, we will open our doors on the last Saturday of the month. They are a fun, relaxed morning of seeing the farm, cutting your own flowers, and learning how to arrange them to look their best.</p>",
+            "link_label": "Visit the farm",
+            "link": "shopify://collections/farm-workshops"
           }
         }
       },
@@ -168,7 +168,7 @@
         "button_mXwnbG"
       ],
       "settings": {
-        "image": "shopify://shop_images/Flower_beds_smaller.jpg",
+        "image": "shopify://shop_images/florist-email_-_3.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -242,8 +242,7 @@
         },
         "email_form_7BWKtJ": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -251,9 +250,7 @@
         "paragraph_9f9TzE",
         "email_form_7BWKtJ"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "",
         "full_width": true,
