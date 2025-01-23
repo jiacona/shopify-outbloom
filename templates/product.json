@@ -54,16 +54,16 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "bird_pickup_delivery_app_block_RxakhQ": {
+          "type": "shopify://apps/bird-pickup-delivery/blocks/app-block/6e8f5020-fc3a-4acd-a31a-fb627c0270cf",
+          "settings": {}
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
-        },
-        "bird_pickup_delivery_app_block_bN8p6a": {
-          "type": "shopify://apps/bird-pickup-delivery/blocks/app-block/6e8f5020-fc3a-4acd-a31a-fb627c0270cf",
-          "settings": {}
         },
         "description": {
           "type": "description",
@@ -124,8 +124,8 @@
         "variant_picker",
         "inventory_iXDybi",
         "quantity_selector",
+        "bird_pickup_delivery_app_block_RxakhQ",
         "buy_buttons",
-        "bird_pickup_delivery_app_block_bN8p6a",
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
