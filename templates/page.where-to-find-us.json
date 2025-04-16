@@ -26,18 +26,10 @@
             "heading": "Where to find us",
             "heading_size": "h1"
           }
-        },
-        "text_ti9RjW": {
-          "type": "text",
-          "settings": {
-            "text": "We are hibernating for the winter. Sign up for our emails to find out when we'll start up again in the spring",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
-        "heading_bQfNjx",
-        "text_ti9RjW"
+        "heading_bQfNjx"
       ],
       "settings": {
         "image": "shopify://shop_images/DSC05528_2.jpg",
@@ -127,7 +119,7 @@
         "text_ihWPeG": {
           "type": "text",
           "settings": {
-            "text": "<p>We are currently hibernating over winter and won't have any events until the flowers return in the spring. We will be putting dates in the calendar over the coming weeks though.</p><p>If you want to keep up to date with our events, why not sign up for our newsletter? Just pop your email in below and we'll send you a periodic email with farm news and goings on.</p>"
+            "text": "<p>We do a variety of markets in the Lampeter area each month.</p><p>If you want to keep up to date with our events, why not sign up for our newsletter? Just pop your email in below and we'll send you a periodic email with farm news and goings on.</p>"
           }
         }
       },
@@ -160,6 +152,60 @@
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_Aa4rch": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_knpjX8": {
+          "type": "column",
+          "settings": {
+            "title": "First Saturday",
+            "text": "<p>Pop-up at Watson and Pratt's Lampeter</p><p>8:30 - 12:30</p><ul><li>April 5</li><li>May 3</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GxVKp4": {
+          "type": "column",
+          "settings": {
+            "title": "Second saturday",
+            "text": "<p>Marchnad Llambed - Lampeter Market <br/>10:00 - 13:00</p><ul><li>April 12</li><li>May 10</li><li>June 14</li><li>July 12</li><li>August 9</li><li>September 13</li><li>October 11</li></ul><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MGzmnD": {
+          "type": "column",
+          "settings": {
+            "title": "Third saturday",
+            "text": "<p>Aberaeron Harbour View Farmers Market<br/>10:00 - 14:30</p><ul><li>April 19</li><li>May 17</li><li>June 21</li><li>July 19</li><li>August 16</li><li>September 20</li><li>October 18</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_knpjX8",
+        "column_GxVKp4",
+        "column_MGzmnD"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Monthly markets",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_AmtmzN": {
@@ -241,6 +287,7 @@
     "multicolumn_wzeqYp",
     "rich_text_LCjCaD",
     "newsletter_QHY4BQ",
+    "multicolumn_Aa4rch",
     "rich_text_AmtmzN",
     "rich_text_Dw48Nt"
   ]
