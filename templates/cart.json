@@ -1,5 +1,29 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
+    "17448162773059e502": {
+      "type": "apps",
+      "blocks": {
+        "bird_pickup_delivery_app_block_thyzVf": {
+          "type": "shopify://apps/bird-pickup-delivery/blocks/app-block/6e8f5020-fc3a-4acd-a31a-fb627c0270cf",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "bird_pickup_delivery_app_block_thyzVf"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
@@ -13,13 +37,11 @@
       "blocks": {
         "subtotal": {
           "type": "subtotal",
-          "settings": {
-          }
+          "settings": {}
         },
         "buttons": {
           "type": "buttons",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -64,6 +86,7 @@
   "order": [
     "cart-items",
     "cart-footer",
+    "17448162773059e502",
     "featured-collection"
   ]
 }
