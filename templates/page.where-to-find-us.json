@@ -154,6 +154,50 @@
         "padding_bottom": 0
       }
     },
+    "rich_text_NFCEaq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YxAV3E": {
+          "type": "heading",
+          "settings": {
+            "heading": "Monthly Markets",
+            "heading_size": "h1"
+          }
+        },
+        "text_EhGw4R": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We do a variety of markets in the Lampeter area each month.</p>"
+          }
+        },
+        "button_BLRAzp": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_YxAV3E",
+        "text_EhGw4R",
+        "button_BLRAzp"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "multicolumn_Aa4rch": {
       "type": "multicolumn",
       "blocks": {
@@ -192,7 +236,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Monthly markets",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -204,7 +248,7 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -287,6 +331,7 @@
     "multicolumn_wzeqYp",
     "rich_text_LCjCaD",
     "newsletter_QHY4BQ",
+    "rich_text_NFCEaq",
     "multicolumn_Aa4rch",
     "rich_text_AmtmzN",
     "rich_text_Dw48Nt"
