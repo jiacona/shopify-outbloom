@@ -56,7 +56,6 @@
         },
         "bird_pickup_delivery_app_block_RxakhQ": {
           "type": "shopify://apps/bird-pickup-delivery/blocks/app-block/6e8f5020-fc3a-4acd-a31a-fb627c0270cf",
-          "disabled": true,
           "settings": {}
         },
         "buy_buttons": {
