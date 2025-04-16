@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -17,15 +17,14 @@
         "announcement_ydnPxN": {
           "type": "announcement",
           "settings": {
-            "text": "Fresh flower season is upon us! Get yours now 💐",
-            "link": "shopify:\/\/collections\/fresh-flowers"
+            "text": "Fresh flower season is upon us. Now shipping nationwide! 💐",
+            "link": "shopify://collections/fresh-flowers"
           }
         }
       },
       "block_order": [
         "announcement_ydnPxN"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "scheme-4",
         "show_line_separator": true,
