@@ -150,6 +150,11 @@
         "type": "shopify://apps/multifeeds/blocks/app_embed/f3e7ca1d-2d5a-45a7-97dd-2fd45843acef",
         "disabled": false,
         "settings": {}
+      },
+      "7076804932605100289": {
+        "type": "shopify://apps/aod-unlimited-product-options/blocks/product_option/8f42a78f-120b-4930-86a0-ec3a653e07d0",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
