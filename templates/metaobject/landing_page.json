@@ -67,7 +67,7 @@
         "variant_picker_grWDYJ": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button",
+            "picker_type": "dropdown",
             "swatch_shape": "square"
           }
         },
@@ -124,6 +124,7 @@
     },
     "featured_collection_U9h7iQ": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Featured collection",
