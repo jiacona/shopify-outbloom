@@ -84,6 +84,7 @@
         },
         "text_AacfaG": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Text block",
             "text_style": "body"
