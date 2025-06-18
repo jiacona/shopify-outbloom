@@ -84,9 +84,8 @@
         },
         "text_AacfaG": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Text block",
+            "text": "Fantabulous mixed bouquet bursting with the best flowers of the season wrapped in recycled kraft paper. We grow everything that goes into our bouquets, so the exact flowers used change with the seasons.",
             "text_style": "body"
           }
         },
