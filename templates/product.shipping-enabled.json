@@ -12,6 +12,18 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "icon_with_text_NJtgyg": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "truck",
+            "heading_1": "Free shipping",
+            "icon_2": "recycle",
+            "heading_2": "Plastic free",
+            "icon_3": "check_mark",
+            "heading_3": "Cut to Order"
+          }
+        },
         "vendor": {
           "type": "text",
           "disabled": true,
@@ -92,7 +104,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "<p>Follow these simple steps to help your flowers stay fresh for as long as possible once they arrive</p><ul><li>Unwrap the flowers and remove the moisture pack from the stems</li><li>Trim a few centimetres off the ends of the stems using scissors or a sharp knife</li><li>Place in clean, cool water, and keep them out of direct sunlight and away from radiators</li></ul>",
+            "content": "<p>Follow these simple steps to help your flowers stay fresh for as long as possible once they arrive</p><ul><li>Unwrap the flowers and remove the moisture pack from the stems</li><li>Trim a few centimetres off the ends of the stems using scissors or a sharp knife</li><li>Place in clean, cool water, out of direct sunlight and away from radiators</li></ul>",
             "page": ""
           }
         },
@@ -101,7 +113,7 @@
           "settings": {
             "heading": "Packaging disposal",
             "icon": "recycle",
-            "content": "<p>All of our packaging is recyclable, compostable, or plantable! </p><ul><li><strong>Recycle</strong>: The box, tape, paper wrap and other paper</li><li><strong>Compost</strong>: Moisture pack bag and pad. They need to be industrially composted, so just pop them in your food waste bin</li><li><strong>Plant</strong>: Notecards are printed on native wildflower seed paper. Soak the card and plant for even more flowers to enjoy. </li></ul>",
+            "content": "<p>All of our packaging is recyclable, compostable, or plantable! </p><ul><li><strong>Recycle</strong>: The box, tape, paper wrap and other paper</li><li><strong>Compost</strong>: Moisture pack bag, pad and rubber band. They need to be industrially composted, so just pop them in your food waste bin</li><li><strong>Plant</strong>: Notecards are printed on native wildflower seed paper. Soak the card and plant for even more flowers to enjoy. </li></ul>",
             "page": ""
           }
         },
@@ -113,6 +125,7 @@
         }
       },
       "block_order": [
+        "icon_with_text_NJtgyg",
         "vendor",
         "title",
         "caption",
