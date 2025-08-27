@@ -12,18 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "icon_with_text_NJtgyg": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "truck",
-            "heading_1": "Free shipping",
-            "icon_2": "recycle",
-            "heading_2": "Plastic free",
-            "icon_3": "check_mark",
-            "heading_3": "Cut to Order"
-          }
-        },
         "vendor": {
           "type": "text",
           "disabled": true,
@@ -66,8 +54,13 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "optis_product_options_option_set_pfX4H9": {
+          "type": "shopify://apps/optis-product-options/blocks/option-set/2c446099-c349-4e73-80cd-49c9770b7807",
+          "settings": {}
+        },
         "bird_pickup_delivery_app_block_RxakhQ": {
           "type": "shopify://apps/bird-pickup-delivery/blocks/app-block/6e8f5020-fc3a-4acd-a31a-fb627c0270cf",
+          "disabled": true,
           "settings": {}
         },
         "buy_buttons": {
@@ -75,6 +68,18 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
+          }
+        },
+        "icon_with_text_NJtgyg": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "truck",
+            "heading_1": "Free shipping",
+            "icon_2": "recycle",
+            "heading_2": "Plastic free",
+            "icon_3": "check_mark",
+            "heading_3": "Cut to Order"
           }
         },
         "description": {
@@ -126,7 +131,6 @@
         }
       },
       "block_order": [
-        "icon_with_text_NJtgyg",
         "vendor",
         "title",
         "caption",
@@ -134,8 +138,10 @@
         "variant_picker",
         "inventory_iXDybi",
         "quantity_selector",
+        "optis_product_options_option_set_pfX4H9",
         "bird_pickup_delivery_app_block_RxakhQ",
         "buy_buttons",
+        "icon_with_text_NJtgyg",
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
