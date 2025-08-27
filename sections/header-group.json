@@ -42,7 +42,7 @@
       "type": "header",
       "settings": {
         "logo_position": "middle-center",
-        "menu": "condensed-menu",
+        "menu": "main-menu-postal-focus",
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": false,
@@ -50,7 +50,7 @@
         "cart_notification_color_scheme": "scheme-1",
         "menu_color_scheme": "",
         "enable_country_selector": false,
-        "enable_language_selector": true,
+        "enable_language_selector": false,
         "mobile_logo_position": "center",
         "margin_bottom": 0,
         "padding_top": 24,
