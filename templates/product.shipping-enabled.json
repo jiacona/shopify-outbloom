@@ -86,7 +86,7 @@
           "settings": {
             "heading": "What's in the box?",
             "icon": "box",
-            "content": "<p>Each bouquet is wrapped in brown paper and shipped securely in a special floral cardboard box. Also included are care instructions and a gift card if requested.</p>",
+            "content": "<p>Each bouquet is wrapped in brown paper and shipped securely in a specially designed cardboard box. Also included are care instructions and a gift card if requested.</p>",
             "page": ""
           }
         },
@@ -119,6 +119,7 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
