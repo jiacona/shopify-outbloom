@@ -17,8 +17,8 @@
         "announcement_ydnPxN": {
           "type": "announcement",
           "settings": {
-            "text": "Fresh flower season is upon us. Now shipping nationwide! 💐",
-            "link": "shopify://collections/fresh-flowers"
+            "text": "Now shipping nationwide! Order yours now 💐",
+            "link": "shopify://products/seasonal-bouquets"
           }
         }
       },
@@ -26,7 +26,7 @@
         "announcement_ydnPxN"
       ],
       "custom_css": [
-        ".announcement-bar__message {font-family: var(--font-body-family); font-weight: var(--font-body-weight)}"
+        ".announcement-bar__message {font-family: var(--font-body-family); font-weight: var(--font-body-weight);}"
       ],
       "settings": {
         "color_scheme": "scheme-4",

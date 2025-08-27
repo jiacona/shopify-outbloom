@@ -41,21 +41,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Sensational flowers grown in West Wales",
+            "heading": "From field to doorstep, sensational flowers delivered fresh from West Wales",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>We grow top quality flowers without chemicals and in a way that encourages all kinds of life on the farm. We provide flowers in an ever changing selection throughout the growing season, locally in the Lampeter area, and shipped nationwide. They are alway fresh, scented, and fabulous.</p>"
+            "text": "<p>We grow top quality flowers without chemicals and in a way that encourages all kinds of life on the farm. We provide flowers in an ever changing selection throughout the growing season. They are alway fresh, scented, and fabulous.</p>"
           }
         },
         "button_AfL6Ci": {
           "type": "button",
           "settings": {
-            "button_label": "Buy flowers",
-            "button_link": "shopify://collections/fresh-flowers",
+            "button_label": "Send flowers",
+            "button_link": "shopify://products/seasonal-bouquets",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -84,9 +84,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/DSC03080.jpg",
-            "title": "Bouquets",
-            "text": "<p>Whether you are looking for a stunning bouquet of flowers as a gift, or as a gift to yourself, we’ve got you covered.</p><p>You can order online for local or nationwide delivery, sign up for our subscription flowers, or find us at a range of markets and popups around Ceredigion.</p>",
-            "link_label": "Order bouquets",
+            "title": "Seasonal flower delivery",
+            "text": "<p>From field to doorstep, we send glorious flowers out across the UK from our small farm in West Wales. </p><p>Our flowers are wildly beautiful, not plastic perfect. They are picked fresh to order and shipped to your door via next-day delivery.</p>",
+            "link_label": "Send flowers",
             "link": "shopify://collections/fresh-flowers"
           }
         },
