@@ -39,7 +39,7 @@
           "type": "variant_picker",
           "settings": {
             "picker_type": "dropdown",
-            "swatch_shape": "circle"
+            "swatch_shape": "none"
           }
         },
         "inventory_iXDybi": {
@@ -79,8 +79,8 @@
             "heading_1": "Free shipping",
             "icon_2": "recycle",
             "heading_2": "Plastic free",
-            "icon_3": "check_mark",
-            "heading_3": "Cut to Order"
+            "icon_3": "plant",
+            "heading_3": "Long lasting"
           }
         },
         "description": {
@@ -92,7 +92,7 @@
           "settings": {
             "heading": "What's in the box?",
             "icon": "box",
-            "content": "<p>Each bouquet is wrapped in brown paper and shipped securely in a specially designed cardboard box. Also included are care instructions and a gift card if requested.</p>",
+            "content": "<p>Each bouquet is wrapped in tissue and brown paper and shipped securely in a specially designed cardboard box. Also included are care instructions and a gift card if requested.</p>",
             "page": ""
           }
         },
@@ -110,7 +110,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "<p>Follow these simple steps to help your flowers stay fresh for as long as possible once they arrive</p><ul><li>Unwrap the flowers and remove the moisture pack from the stems</li><li>Trim a few centimetres off the ends of the stems using scissors or a sharp knife</li><li>Place in clean, cool water, out of direct sunlight and away from radiators</li></ul>",
+            "content": "<p>Follow these simple steps to help you enjoy your dried flowers for as long as possible once they arrive</p><ul><li>Handle carefully when unwrapping. Dried flowers can be more delicate</li><li>Keep in a dry airy environment, out of direct sunlight. Colours will stay vibrant longer if kept out of the sun. </li><li>If they start to get dusty, give them a quick blow-dry on low heat</li></ul>",
             "page": ""
           }
         },
@@ -119,7 +119,7 @@
           "settings": {
             "heading": "Packaging disposal",
             "icon": "recycle",
-            "content": "<p>All of our packaging is recyclable, compostable, or plantable! </p><ul><li><strong>Recycle</strong>: The box, tape, paper wrap and other paper</li><li><strong>Compost</strong>: Moisture pack bag, pad and rubber band. They need to be industrially composted, so just pop them in your food waste bin</li><li><strong>Plant</strong>: Notecards are printed on native wildflower seed paper. Soak the card and plant for even more flowers to enjoy. </li></ul>",
+            "content": "<p>All of our packaging is recyclable or plantable! </p><ul><li><strong>Recycle</strong>: The box, tape, paper wrap and other paper</li><li><strong>Plant</strong>: Notecards are printed on native wildflower seed paper. Soak the card and plant for even more flowers to enjoy. </li></ul>",
             "page": ""
           }
         },
