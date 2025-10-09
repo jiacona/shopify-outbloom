@@ -55,7 +55,7 @@
           "type": "button",
           "settings": {
             "button_label": "Send flowers",
-            "button_link": "shopify://products/seasonal-bouquets",
+            "button_link": "shopify://products/everlasting-bouquets",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
