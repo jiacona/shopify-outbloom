@@ -17,8 +17,8 @@
         "announcement_ydnPxN": {
           "type": "announcement",
           "settings": {
-            "text": "Fresh flowers are over for this season 😢",
-            "link": ""
+            "text": "Everlasting flowers are in stock now!",
+            "link": "shopify://products/everlasting-bouquets"
           }
         }
       },
