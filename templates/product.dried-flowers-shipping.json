@@ -123,6 +123,13 @@
             "page": ""
           }
         },
+        "text_tp7gNJ": {
+          "type": "text",
+          "settings": {
+            "text": "<em>Looking for fresh flowers? The fresh flower season is over for this year and will return next spring. You can order </em><a href=\"https://outbloom.co.uk/products/a-gift-of-flowers\" title=\"A gift of flowers\"><em>gift vouchers</em></a><em> and </em><a href=\"https://outbloom.co.uk/products/flower-subscription\" title=\"Flower subscriptions\"><em>subscriptions</em></a><em> for when the flowers return.</em>",
+            "text_style": "body"
+          }
+        },
         "share": {
           "type": "share",
           "disabled": true,
@@ -148,6 +155,7 @@
         "collapsible-row-1",
         "collapsible-row-3",
         "collapsible-row-2",
+        "text_tp7gNJ",
         "share"
       ],
       "settings": {
@@ -168,7 +176,6 @@
     },
     "related-products": {
       "type": "related-products",
-      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
