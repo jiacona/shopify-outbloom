@@ -80,6 +80,16 @@
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/dried-flowers-2025-3.jpg",
+            "title": "Everlasting flowers",
+            "text": "<p>An everlasting bouquet is a beautiful and sustainable way of enjoying flowers year round. Our bouquets are made from 100% flowers grown here on the farm and harvested at their peak. </p><p>They are the most sustainable way of enjoying flowers year round.</p>",
+            "link_label": "Order flowers",
+            "link": "shopify://products/everlasting-bouquets"
+          }
+        },
         "column3": {
           "type": "column",
           "settings": {
@@ -99,22 +109,12 @@
             "link_label": "Book a wedding",
             "link": "shopify://pages/weddings-and-ceremonies"
           }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/dried-flowers-2025-3.jpg",
-            "title": "Everlasting flowers",
-            "text": "<p>An everlasting bouquet is a beautiful and sustainable way of enjoying flowers year round. Our bouquets are made from 100% flowers grown here on the farm and harvested at their peak. </p><p>They are the most sustainable way of enjoying flowers year round.</p>",
-            "link_label": "Order flowers",
-            "link": "shopify://products/everlasting-bouquets"
-          }
         }
       },
       "block_order": [
+        "column2",
         "column3",
-        "column1",
-        "column2"
+        "column1"
       ],
       "custom_css": [
         ".link {font-weight: bold;}"
