@@ -85,9 +85,9 @@
           "settings": {
             "image": "shopify://shop_images/DSC03080.jpg",
             "title": "Seasonal flower delivery",
-            "text": "<p>From field to doorstep, we send glorious flowers out across the UK from our small farm in West Wales. </p><p>Our flowers are wildly beautiful, not plastic perfect. They are picked fresh to order and shipped to your door via next-day delivery.</p>",
-            "link_label": "Send flowers",
-            "link": "shopify://products/seasonal-bouquets"
+            "text": "<p>From field to doorstep, we send glorious flowers out across the UK from our small farm in West Wales. </p><p>While our fresh flower season is over for the year, you can get ready for next year's season with a gift voucher or subscription.</p>",
+            "link_label": "Get ready for spring",
+            "link": "shopify://collections/fresh-flowers"
           }
         },
         "column1": {
@@ -103,11 +103,11 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/flower-wheelbarrow-email-size.jpg",
-            "title": "Farm workshops",
-            "text": "<p>Come visit our farm for a flower-filled morning out. From April, we will open our doors on the last Saturday of the month. They are a fun, relaxed morning of seeing the farm, cutting your own flowers, and learning how to arrange them to look their best.</p>",
-            "link_label": "Visit the farm",
-            "link": "shopify://collections/farm-workshops"
+            "image": "shopify://shop_images/dried-flowers-2025-3.jpg",
+            "title": "Everlasting flowers",
+            "text": "<p>An everlasting bouquet is a beautiful and sustainable way of enjoying flowers year round. Our bouquets are made from 100% flowers grown here on the farm and harvested at their peak. </p><p>They are the most sustainable way of enjoying flowers year round.</p>",
+            "link_label": "Order flowers",
+            "link": "shopify://products/everlasting-bouquets"
           }
         }
       },
