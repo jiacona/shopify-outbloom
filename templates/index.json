@@ -95,8 +95,8 @@
           "settings": {
             "image": "shopify://shop_images/DSC03080.jpg",
             "title": "Seasonal flower delivery",
-            "text": "<p>From field to doorstep, we send glorious flowers out across the UK from our small farm in West Wales. </p><p>While our fresh flower season is over for the year, you can get ready for next year's season with a gift voucher or subscription.</p>",
-            "link_label": "Get ready for spring",
+            "text": "<p>From field to doorstep, we send glorious flowers out across the UK from our small farm in West Wales. </p><p>Chrysanthemums will finish off our fresh flower season  for the year. Order some now or get ready for next year's season with a gift voucher or subscription.</p>",
+            "link_label": "Get seasonal flowers",
             "link": "shopify://collections/fresh-flowers"
           }
         },
