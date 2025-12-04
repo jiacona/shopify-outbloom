@@ -55,7 +55,7 @@
           "type": "button",
           "settings": {
             "button_label": "Send flowers",
-            "button_link": "shopify://products/chrysanthemum-bouquet",
+            "button_link": "shopify://products/everlasting-bouquets",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -95,7 +95,7 @@
           "settings": {
             "image": "shopify://shop_images/subscription-october.jpg",
             "title": "Seasonal flower delivery",
-            "text": "<p>From field to doorstep, we send glorious flowers out across the UK from our small farm in West Wales. </p><p>Chrysanthemums signal the end our fresh flower season for the year. Order some now or get ready for next year's season with a gift voucher or subscription.</p>",
+            "text": "<p>From field to doorstep, we send glorious flowers out across the UK from our small farm in West Wales. </p><p>Our seasonal fresh flower season is over for the year. Get ready for spring with a gift voucher or subscription.</p>",
             "link_label": "Get seasonal flowers",
             "link": "shopify://collections/fresh-flowers"
           }
