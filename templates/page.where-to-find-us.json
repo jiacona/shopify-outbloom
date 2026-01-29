@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -149,8 +149,7 @@
       "blocks": {
         "email_form_RdXH6t": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -213,7 +212,7 @@
           "type": "button",
           "settings": {
             "button_label": "Order flowers for delivery",
-            "button_link": "shopify://collections/fresh-flowers",
+            "button_link": "shopify://collections/postal-flowers",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",

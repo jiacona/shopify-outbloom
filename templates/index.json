@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -55,7 +55,7 @@
           "type": "button",
           "settings": {
             "button_label": "Buy flowers",
-            "button_link": "shopify://collections/fresh-flowers",
+            "button_link": "shopify://collections/postal-flowers",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -87,7 +87,7 @@
             "title": "Bouquets",
             "text": "<p>Whether you are looking for a stunning bouquet of flowers as a gift, or as a gift to yourself, we’ve got you covered.</p><p>You can order online for local deliver, sign up for our subscription flowers, or find us at a range of markets and popups around Ceredigion.</p>",
             "link_label": "Order bouquets",
-            "link": "shopify://collections/fresh-flowers"
+            "link": "shopify://collections/postal-flowers"
           }
         },
         "column1": {
@@ -242,8 +242,7 @@
         },
         "email_form_7BWKtJ": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -251,9 +250,7 @@
         "paragraph_9f9TzE",
         "email_form_7BWKtJ"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "",
         "full_width": true,
