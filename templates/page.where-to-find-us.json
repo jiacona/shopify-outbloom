@@ -302,7 +302,7 @@
           "type": "button",
           "settings": {
             "button_label": "Order flowers for delivery",
-            "button_link": "shopify://collections/fresh-flowers",
+            "button_link": "shopify://collections/postal-flowers",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
